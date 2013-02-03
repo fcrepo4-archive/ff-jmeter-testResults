@@ -4,14 +4,14 @@ Fedora version: 3.6.2 (https://wiki.duraspace.org/display/FEDORA36/Downloads)
 
 Test code: https://github.com/futures/ff-jmeter-madness/blob/14e9184dd023be002c5ff187002a8f1617e518f7/plans/fedora.jmx  
 
-The results of the test run in the log directory  
+The results of the test run are in the [log](/log/) directory  
 
-The various plots analyzing the test reults are in the results directory  
+The various plots analyzing the test reults are in the [results](/results/) directory  
 
 The stats visualizations were done using R (http://www.r-project.org/)
-The code used to produce the graphs are in the directory RCode.  
+The code used to produce the graphs are in the directory [RCode](/RCode/).  
 
-The file systemInfo.txt contains information of the system where the tests were run  
+The file [systemInfo.txt](/systemInfo.txt/) contains information of the system where the tests were run  
 
 TODO
 ----
