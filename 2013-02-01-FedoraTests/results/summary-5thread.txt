@@ -1,0 +1,28 @@
+   timeStamp           elapsed      
+ Min.   :1.36e+12   Min.   :   8.0  
+ 1st Qu.:1.36e+12   1st Qu.:  20.0  
+ Median :1.36e+12   Median :  68.0  
+ Mean   :1.36e+12   Mean   : 237.6  
+ 3rd Qu.:1.36e+12   3rd Qu.: 147.0  
+ Max.   :1.36e+12   Max.   :5997.0  
+                                   label       responseCode    responseMessage
+ Debug Sampler                        :   0   Min.   :200.0   Created  :3000  
+ Fedora Create Binary Resource Request:3000   1st Qu.:200.0   OK       :2999  
+ Fedora Create Object Request         :   0   Median :201.0   Not Found:   1  
+ Fedora Delete Object Request         :   0   Mean   :200.5                   
+ Fedora Get Object Request            :   0   3rd Qu.:201.0                   
+ Fedora Read Binary Resource Request  :3000   Max.   :404.0                   
+            threadName   dataType     success         bytes         
+ Fedora group 1-1:1200   text:6000   true :5999   Min.   :     450  
+ Fedora group 1-2:1200               false:   1   1st Qu.:    1474  
+ Fedora group 1-3:1200                            Median :   10850  
+ Fedora group 1-4:1200                            Mean   : 1579828  
+ Fedora group 1-5:1200                            3rd Qu.: 1035583  
+                                                  Max.   :10653353  
+    Latency      
+ Min.   :   8.0  
+ 1st Qu.:  16.0  
+ Median :  57.0  
+ Mean   : 219.6  
+ 3rd Qu.: 126.0  
+ Max.   :5997.0  

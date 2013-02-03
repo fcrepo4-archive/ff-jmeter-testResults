@@ -1,0 +1,21 @@
+   timeStamp           elapsed         label            responseCode  
+ Min.   :1.36e+12   Min.   :    8   Length:7400        Min.   :200.0  
+ 1st Qu.:1.36e+12   1st Qu.:   19   Class :character   1st Qu.:200.0  
+ Median :1.36e+12   Median :   69   Mode  :character   Median :201.0  
+ Mean   :1.36e+12   Mean   :  297                      Mean   :200.5  
+ 3rd Qu.:1.36e+12   3rd Qu.:  146                      3rd Qu.:201.0  
+ Max.   :1.36e+12   Max.   :17287                      Max.   :404.0  
+  responseMessage            threadName   dataType     success    
+ Created  :3700   Fedora group 1-1:2600   text:7400   true :7399  
+ OK       :3699   Fedora group 1-2:1200               false:   1  
+ Not Found:   1   Fedora group 1-3:1200                           
+                  Fedora group 1-4:1200                           
+                  Fedora group 1-5:1200                           
+                                                                  
+     bytes              Latency       
+ Min.   :      450   Min.   :    8.0  
+ 1st Qu.:     1478   1st Qu.:   15.0  
+ Median :    90852   Median :   57.0  
+ Mean   :  4369659   Mean   :  260.1  
+ 3rd Qu.:  1067320   3rd Qu.:  125.2  
+ Max.   :136112149   Max.   :17287.0  

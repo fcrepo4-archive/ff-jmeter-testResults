@@ -1,0 +1,264 @@
+library(ggplot2);
+library(gridExtra);
+#==========================================================================================
+#File size distribution
+
+#0a
+f <- "../log-dsSizes-2/log/jmeter-fedora-1mean-0stddev-1threads.csv";
+data <- read.csv(f);
+title0 <- strsplit(f, "/");
+binReadData0 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+DF0a <- data.frame(t=binReadData0$bytes)
+DF0a$model <- "~1B"
+
+df0ag <- ggplot(DF0a, aes(x=t)) +
+geom_histogram(fill="lightskyblue", colour="blue", binwidth=0.1) +
+geom_density(aes(y=0.1*..count..), colour="black", adjust=4) +
+opts(title=sprintf("Fedora.jmx - File size distribution %s",DF0a$model)) + labs(x="File size (Bytes)")
+#ggsave( filename=sprintf("%s.png", sub("csv", "-FileSizeDistribution", tail(title1[[1]], n=1))), plot=df0ag );
+
+#1a.
+f <- "../log-dsSizes-2/log/jmeter-fedora-1024mean-102stddev-1threads.csv";
+data <- read.csv(f);
+title1 <- strsplit(f, "/");
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+DF1a <- data.frame(t=binReadData$bytes)
+DF1a$model <- "~1KB"
+
+df1ag <- ggplot(DF1a, aes(x=t)) +
+geom_histogram(fill="lightskyblue", colour="blue", binwidth=12.24) +
+geom_density(aes(y=12.24*..count..), colour="black", adjust=4) +
+opts(title=sprintf("Fedora.jmx - File size distribution %s",DF1a$model)) + labs(x="File size (Bytes)")
+#ggsave( filename=sprintf("%s.png", sub("csv", "-FileSizeDistribution", tail(title1[[1]], n=1))), plot=df1ag );
+
+#2a.
+f <- "../log-dsSizes-2/log/jmeter-fedora-8192mean-819stddev-1threads.csv";
+data <- read.csv(f);
+title2 <- strsplit(f, "/");
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+DF2a <- data.frame(t=binReadData$bytes)
+DF2a$model <- "~8KB"
+
+df2ag <- ggplot(DF2a, aes(x=t)) +
+geom_histogram(fill="lightskyblue", colour="blue", binwidth=98.28) +
+geom_density(aes(y=98.28*..count..), colour="black", adjust=4) +
+opts(title=sprintf("Fedora.jmx - File size distribution %s",DF2a$model)) + labs(x="File size (Bytes)")
+#ggsave( filename=sprintf("%s.png", sub("csv", "-FileSizeDistribution", tail(title2[[1]], n=1))), plot=df2ag);
+
+#3a.
+f <- "../log-dsSizes-2/log/jmeter-fedora-104858mean-10486stddev-1threads.csv";
+data <- read.csv(f);
+title3 <- strsplit(f, "/");
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+DF3a <- data.frame(t=binReadData$bytes)
+DF3a$model <- "~0.1MB"
+
+df3ag <- ggplot(DF3a, aes(x=t)) +
+geom_histogram(fill="lightskyblue", colour="blue", binwidth=1258.32) +
+geom_density(aes(y=1258.32*..count..), colour="black", adjust=4) +
+opts(title=sprintf("Fedora.jmx - File size distribution %s",DF3a$model)) + labs(x="File size (Bytes)")
+#ggsave( filename=sprintf("%s.png", sub("csv", "-FileSizeDistribution", tail(title3[[1]], n=1))), plot=df3ag);
+
+#4a.
+f <- "../log-dsSizes-2/log/jmeter-fedora-1048576mean-104858stddev-1threads.csv";
+data <- read.csv(f);
+title4 <- strsplit(f, "/");
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+DF4a <- data.frame(t=binReadData$bytes)
+DF4a$model <- "~1MB"
+
+df4ag <- ggplot(DF4a, aes(x=t)) +
+geom_histogram(fill="lightskyblue", colour="blue", binwidth=12582.96) +
+geom_density(aes(y=12582.96*..count..), colour="black", adjust=4) +
+opts(title=sprintf("Fedora.jmx - File size distribution %s",DF4a$model)) + labs(x="File size (Bytes)")
+#ggsave( filename=sprintf("%s.png", sub("csv", "-FileSizeDistribution", tail(title4[[1]], n=1))), plot=df4ag );
+
+#5a.
+f <- "../log-dsSizes-2/log/jmeter-fedora-8388608mean-838861stddev-1threads.csv";
+data <- read.csv(f);
+title5 <- strsplit(f, "/");
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+DF5a <- data.frame(t=binReadData$bytes)
+DF5a$model <- "~8MB"
+
+df5ag <- ggplot(DF5a, aes(x=t)) +
+geom_histogram(fill="lightskyblue", colour="blue", binwidth=100663.32) +
+geom_density(aes(y=100663.32*..count..), colour="black", adjust=4) +
+opts(title=sprintf("Fedora.jmx - File size distribution %s",DF5a$model)) + labs(x="File size (Bytes)")
+#ggsave( filename=sprintf("%s.png", sub("csv", "-FileSizeDistribution", tail(title5[[1]], n=1))), plot=df5ag);
+
+#6a.
+f <- "../log-dsSizes-2/log/jmeter-fedora-107374182mean-10737418stddev-1threads.csv";
+data <- read.csv(f);
+title6 <- strsplit(f, "/");
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+DF6a <- data.frame(t=binReadData$bytes)
+DF6a$model <- "~0.1GB"
+
+df6ag <- ggplot(DF6a, aes(x=t)) +
+geom_histogram(fill="lightskyblue", colour="blue", binwidth=1288490.16) +
+geom_density(aes(y=1288490.16*..count..), colour="black", adjust=4) +
+opts(title=sprintf("Fedora.jmx - File size distribution %s",DF6a$model)) + labs(x="File size (Bytes)")
+#ggsave( filename=sprintf("%s.png", sub("csv", "-FileSizeDistribution", tail(title6[[1]], n=1))), plot=df6ag);
+
+# Arrange in a grid and save
+png("FileSizeDistribution-1thread.png", width = 1200, height = 1200);
+grid.arrange(df0ag, df1ag, df2ag, df3ag, df4ag, df5ag, df6ag, nrow=3)
+dev.off()
+
+#==========================================================================================
+# Creating a plot of file size v/s elapsed time grouped by label
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-1mean-0stddev-1threads.csv";
+data <- read.csv(f);
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData[['bytes']]) == length(binCreateData[['bytes']]) ) {
+binCreateData[['bytes']] = binReadData[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-1024mean-102stddev-1threads.csv";
+data <- read.csv(f);
+binReadData1 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData1 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData1[['bytes']]) == length(binCreateData1[['bytes']]) ) {
+binCreateData1[['bytes']] = binReadData1[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-8192mean-819stddev-1threads.csv";
+data <- read.csv(f);
+binReadData2 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData2 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData2[['bytes']]) == length(binCreateData2[['bytes']]) ) {
+binCreateData2[['bytes']] = binReadData2[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-104858mean-10486stddev-1threads.csv";
+data <- read.csv(f);
+binReadData3 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData3 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData3[['bytes']]) == length(binCreateData3[['bytes']]) ) {
+binCreateData3[['bytes']] = binReadData3[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-1048576mean-104858stddev-1threads.csv";
+data <- read.csv(f);
+binReadData4 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData4 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData4[['bytes']]) == length(binCreateData4[['bytes']]) ) {
+binCreateData4[['bytes']] = binReadData4[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-8388608mean-838861stddev-1threads.csv";
+data <- read.csv(f);
+binReadData5 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData5 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData5[['bytes']]) == length(binCreateData5[['bytes']]) ) {
+binCreateData5[['bytes']] = binReadData5[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-107374182mean-10737418stddev-1threads.csv";
+data <- read.csv(f);
+binReadData6 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData6 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData6[['bytes']]) == length(binCreateData6[['bytes']]) ) {
+binCreateData6[['bytes']] = binReadData6[['bytes']]
+}
+
+databin <- rbind(binCreateData, binReadData, binCreateData1, binReadData1, binCreateData2, binReadData2, binCreateData3, binReadData3, binCreateData4, binReadData4, binCreateData5, binReadData5, binCreateData6, binReadData6)
+df <- data.frame(databin$bytes, databin$elapsed, databin$label)
+
+p <- ggplot(data=df, aes(x=databin$bytes,y=databin$elapsed,color=databin$label)) + scale_colour_discrete(name = "Actions", breaks=c("Fedora Create Binary Resource Request", "Fedora Read Binary Resource Request"), labels=c("Create binary resource", "Read binary resource")) + geom_point( aes( x=databin$bytes, y=databin$elapsed) ) +  scale_y_log10(name="Elapsed time (ms)") +  scale_x_log10(name="File size (bytes)") + geom_smooth(aes(group=databin$label))
+
+p <- ggplot(data=df, aes(x=databin$bytes,y=databin$elapsed,color=databin$label)) + scale_colour_discrete(name = "Actions", breaks=c("Fedora Create Binary Resource Request", "Fedora Read Binary Resource Request"), labels=c("Create binary resource", "Read binary resource")) + geom_point( aes( x=databin$bytes, y=databin$elapsed) ) +  scale_y_log10(breaks=c(10, 31.62, 100, 316.22, 1000, 3162.28, 10000), labels=c("10ms", "31.62ms", "100ms", "316.22ms", "1s", "3.1s", "10s"), name="Elapsed time (ms)") + scale_x_log10(breaks=c(1000, 10000, 100000, 1000000, 10000000, 100000000), labels=c("1kB", "10kB", "100kB", "1MB", "10MB", "100MB"), name="File size (bytes)") + geom_smooth(aes(group=databin$label))
+
+p + opts(title="Fedora - File size vs Elapsed time - 1 thread", legend.position = c(0.82, 0.195)) + labs(x="File size (Bytes)", y="Elapsed time (ms)")
+
+ggsave( filename="FileSize-ElapsedTime-1thread.png");
+
+out<-capture.output(summary(databin))
+cat(out,file="summary-1thread.txt",sep="\n",append=TRUE)
+
+#==========================================================================================
+#Creating a plot of file size vs rate of transfer
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-1mean-0stddev-1threads.csv";
+data <- read.csv(f);
+binReadData <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData[['bytes']]) == length(binCreateData[['bytes']]) ) {
+binCreateData[['bytes']] = binReadData[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-1024mean-102stddev-1threads.csv";
+data <- read.csv(f);
+binReadData1 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData1 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData1[['bytes']]) == length(binCreateData1[['bytes']]) ) {
+binCreateData1[['bytes']] = binReadData1[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-8192mean-819stddev-1threads.csv";
+data <- read.csv(f);
+binReadData2 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData2 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData2[['bytes']]) == length(binCreateData2[['bytes']]) ) {
+binCreateData2[['bytes']] = binReadData2[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-104858mean-10486stddev-1threads.csv";
+data <- read.csv(f);
+binReadData3 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData3 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData3[['bytes']]) == length(binCreateData3[['bytes']]) ) {
+binCreateData3[['bytes']] = binReadData3[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-1048576mean-104858stddev-1threads.csv";
+data <- read.csv(f);
+binReadData4 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData4 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData4[['bytes']]) == length(binCreateData4[['bytes']]) ) {
+binCreateData4[['bytes']] = binReadData4[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-8388608mean-838861stddev-1threads.csv";
+data <- read.csv(f);
+binReadData5 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData5 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData5[['bytes']]) == length(binCreateData5[['bytes']]) ) {
+binCreateData5[['bytes']] = binReadData5[['bytes']]
+}
+
+f <- "../log-dsSizes-2/log/jmeter-fedora-107374182mean-10737418stddev-1threads.csv";
+data <- read.csv(f);
+binReadData6 <- data[data[,'label'] == "Fedora Read Binary Resource Request",];
+binCreateData6 <- data[data[,'label'] == "Fedora Create Binary Resource Request",];
+if ( length(binReadData6[['bytes']]) == length(binCreateData6[['bytes']]) ) {
+binCreateData6[['bytes']] = binReadData6[['bytes']]
+}
+
+databin <- rbind(binCreateData, binReadData, binCreateData1, binReadData1, binCreateData2, binReadData2, binCreateData3, binReadData3, binCreateData4, binReadData4, binCreateData5, binReadData5, binCreateData6, binReadData6)
+
+# File size vs Time taken to transfer each byte
+ratetimeperbyte <- databin$elapsed/databin$bytes
+df <- data.frame(databin$bytes, ratetimeperbyte, databin$label)
+
+p <- ggplot(data=df, aes(x=databin$bytes,y=ratetimeperbyte,color=databin$label)) + scale_colour_discrete(name = "Actions", breaks=c("Fedora Create Binary Resource Request", "Fedora Read Binary Resource Request"), labels=c("Create binary resource", "Read binary resource")) + geom_point( aes( x=databin$bytes, y=ratetimeperbyte) ) +  scale_y_log10(breaks=c(0.00001, 0.0001, 0.001, 0.01, 0.1), labels=c("10ns/B", "100ns/B", "1us/B", "10us/B", "100us/B"), name="Time taken to trasfer each byte") +  scale_x_log10(breaks=c(1000, 10000, 100000, 1000000, 10000000, 100000000), labels=c("1kB", "10kB", "100kB", "1MB", "10MB", "100MB"), name="File size (bytes)") + geom_smooth(aes(group=databin$label))
+
+p + opts(title="Fedora - File size vs Time taken to transfer each byte - 1 thread", legend.position = c(0.82, 0.835))
+
+ggsave( filename="RateOfTransfer-TimePerByte-ElapsedTime-1thread.png");
+
+
+# File size vs Number of bytes transferred in 1 ms
+ratebytepertime <- databin$bytes/databin$elapsed
+df2 <- data.frame(databin$bytes, ratebytepertime, databin$label)
+
+p <- ggplot(data=df2, aes(x=databin$bytes,y=ratebytepertime,color=databin$label)) + scale_colour_discrete(name = "Actions", breaks=c("Fedora Create Binary Resource Request", "Fedora Read Binary Resource Request"), labels=c("Create binary resource", "Read binary resource")) + geom_point( aes( x=databin$bytes, y=ratebytepertime) ) +  geom_smooth(aes(group=databin$label)) + scale_y_log10(breaks=c(10, 100, 1000, 10000, 100000), labels=c("10B/ms", "100B/ms", "1kB/ms", "10kB/ms", "100kB/ms"), name="Number of bytes transferred in 1 ms") + scale_x_log10(breaks=c(1000, 10000, 100000, 1000000, 10000000, 100000000), labels=c("1kB", "10kB", "100kB", "1MB", "10MB", "100MB"), name="File size (bytes)")
+
+p + opts(title="Fedora - File size vs Number of bytes transferred in 1 ms - 1 thread", legend.position = c(0.82, 0.135))
+
+ggsave( filename="RateOfTransfer-BitePerTime-ElapsedTime-1thread.png");
+
+

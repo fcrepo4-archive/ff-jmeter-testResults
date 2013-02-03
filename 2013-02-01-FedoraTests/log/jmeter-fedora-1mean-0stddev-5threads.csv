@@ -1,0 +1,1201 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,Latency
+1359908262753,0,Debug Sampler,200,OK,Fedora group 1-2,text,true,2351,0
+1359908262741,2,Debug Sampler,200,OK,Fedora group 1-1,text,true,2351,0
+1359908262806,1,Debug Sampler,200,OK,Fedora group 1-3,text,true,2351,0
+1359908263019,1,Debug Sampler,200,OK,Fedora group 1-4,text,true,2351,0
+1359908263183,0,Debug Sampler,200,OK,Fedora group 1-5,text,true,2351,0
+1359908263872,1083,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,1083
+1359908265003,204,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,286,204
+1359908263860,1591,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,1590
+1359908263867,1590,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,1590
+1359908265265,204,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,203
+1359908263857,1670,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,1669
+1359908263865,1668,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,1668
+1359908265570,90,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,286,90
+1359908265604,175,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,286,175
+1359908265670,304,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,286,304
+1359908265753,218,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,218
+1359908265892,143,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,143
+1359908265702,353,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,286,353
+1359908265891,140,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,140
+1359908266201,388,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,388
+1359908266173,435,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,431
+1359908266262,460,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,460
+1359908266263,467,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,467
+1359908266263,483,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,483
+1359908266712,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,56
+1359908266865,85,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,84
+1359908266931,75,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,75
+1359908266952,85,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,85
+1359908266993,70,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,70
+1359908266995,77,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,77
+1359908267349,129,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,129
+1359908267350,390,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,390
+1359908267393,407,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,407
+1359908267433,372,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,372
+1359908267567,243,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,243
+1359908267793,158,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,158
+1359908267911,222,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,222
+1359908267929,200,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,200
+1359908267916,271,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,271
+1359908268072,177,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,177
+1359908268033,209,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,209
+1359908268275,64,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,64
+1359908268335,132,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,132
+1359908268377,163,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,163
+1359908268378,173,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,173
+1359908268420,144,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,144
+1359908268517,63,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,63
+1359908268659,214,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,213
+1359908268735,138,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,137
+1359908268736,154,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,154
+1359908268759,149,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,149
+1359908268760,174,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,174
+1359908269009,87,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,87
+1359908269031,94,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,94
+1359908269010,124,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1144,124
+1359908269032,171,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,171
+1359908269086,123,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,123
+1359908269264,18,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2834,18
+1359908269223,47,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,47
+1359908269277,51,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,51
+1359908269357,41,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,454,41
+1359908269329,53,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,53
+1359908269455,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,466,8
+1359908269425,53,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1144,53
+1359908269445,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1139,56
+1359908269499,60,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1144,60
+1359908269794,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,460,11
+1359908269795,30,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2834,30
+1359908269523,262,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1144,262
+1359908269887,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,450,10
+1359908269897,49,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,462,49
+1359908269910,18,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2834,18
+1359908269898,25,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2834,25
+1359908269981,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,470,16
+1359908269982,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,466,25
+1359908269869,128,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1144,127
+1359908270050,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,462,9
+1359908270061,94,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,470,94
+1359908270103,57,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,468,57
+1359908270062,132,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,454,131
+1359908270062,135,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,466,135
+1359908270081,117,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2834,117
+1359908270202,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,456,15
+1359908270237,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,466,9
+1359908270260,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,470,9
+1359908270259,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,466,11
+1359908270261,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,460,20
+1359908270258,33,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,460,33
+1359908270326,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,468,13
+1359908270356,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,464,11
+1359908270373,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,452,9
+1359908270385,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,470,12
+1359908270373,27,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,462,27
+1359908270384,23,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,470,23
+1359908270421,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,460,9
+1359908270431,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,460,17
+1359908270457,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,452,11
+1359908270472,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,464,12
+1359908270492,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,454,16
+1359908270489,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,464,20
+1359908270490,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,460,25
+1359908270533,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,468,10
+1359908270544,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,452,13
+1359908270574,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,464,9
+1359908270573,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,470,11
+1359908270574,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,464,21
+1359908270605,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,456,14
+1359908270625,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,452,9
+1359908270643,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,470,14
+1359908270661,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,460,9
+1359908270683,1,Debug Sampler,200,OK,Fedora group 1-5,text,true,2521,0
+1359908270705,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,470,10
+1359908270706,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,454,9
+1359908270733,31,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,454,31
+1359908270750,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,464,15
+1359908270784,7,Debug Sampler,200,OK,Fedora group 1-1,text,true,2521,0
+1359908270787,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,450,12
+1359908270851,1,Debug Sampler,200,OK,Fedora group 1-4,text,true,2521,0
+1359908270838,196,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,468,196
+1359908270838,201,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,466,201
+1359908271067,97,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,468,97
+1359908271205,82,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,456,82
+1359908270809,475,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,475
+1359908271081,220,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,220
+1359908270877,419,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,419
+1359908271408,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,472,17
+1359908271446,1,Debug Sampler,200,OK,Fedora group 1-2,text,true,2521,0
+1359908271474,1,Debug Sampler,200,OK,Fedora group 1-3,text,true,2521,0
+1359908271499,230,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,230
+1359908271550,207,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,207
+1359908271473,322,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,286,322
+1359908271461,348,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,286,348
+1359908271463,382,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,286,382
+1359908272078,177,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,286,177
+1359908272121,170,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,170
+1359908272151,147,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,147
+1359908272152,141,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,141
+1359908272178,128,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,128
+1359908272413,154,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,145
+1359908272499,179,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,179
+1359908272498,183,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,183
+1359908272493,179,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,179
+1359908272499,154,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,154
+1359908272745,90,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,90
+1359908272913,228,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,214
+1359908272894,263,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,263
+1359908272911,242,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,242
+1359908273081,95,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,95
+1359908272882,274,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,274
+1359908273386,297,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,297
+1359908273387,343,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,343
+1359908273386,355,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,355
+1359908273391,334,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,334
+1359908273392,323,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,323
+1359908273951,550,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,550
+1359908273951,553,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,553
+1359908273953,549,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,524
+1359908273953,557,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,557
+1359908273952,585,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,585
+1359908274659,225,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,225
+1359908274796,1012,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,1012
+1359908274797,1026,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,1026
+1359908275042,797,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,797
+1359908274797,1041,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,1041
+1359908274792,1043,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,1043
+1359908276246,498,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,498
+1359908276247,510,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,498
+1359908276246,505,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,505
+1359908276246,512,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,512
+1359908276248,490,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,490
+1359908277318,505,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,505
+1359908277317,519,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,519
+1359908277342,704,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1139,704
+1359908277343,694,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,693
+1359908277352,701,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,701
+1359908278033,196,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1139,196
+1359908278089,333,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1139,333
+1359908278188,293,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,293
+1359908278386,184,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1144,184
+1359908278231,335,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1144,335
+1359908278455,177,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1144,177
+1359908278679,16,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2834,16
+1359908278237,328,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1139,325
+1359908278541,184,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,184
+1359908278710,38,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2834,38
+1359908278706,53,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2834,53
+1359908278793,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,470,16
+1359908278785,27,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,468,27
+1359908278832,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,456,21
+1359908278878,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,452,10
+1359908278879,39,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,462,39
+1359908278814,99,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1144,99
+1359908278892,41,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,468,41
+1359908278949,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,468,14
+1359908278955,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,450,20
+1359908278981,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,468,15
+1359908278981,43,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2834,43
+1359908279011,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,456,20
+1359908279041,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,464,9
+1359908279053,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,454,10
+1359908279070,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,464,10
+1359908279076,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,454,11
+1359908279091,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,450,12
+1359908279091,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,464,12
+1359908279069,40,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,466,40
+1359908279129,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,470,10
+1359908279131,126,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,458,126
+1359908279129,129,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,460,129
+1359908278909,365,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,365
+1359908279130,151,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,462,151
+1359908279308,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,468,10
+1359908279307,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,464,20
+1359908279317,28,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,27
+1359908279327,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,464,26
+1359908279313,45,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,470,45
+1359908279372,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,454,14
+1359908279382,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,458,9
+1359908279373,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,462,26
+1359908279394,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,9
+1359908279405,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,468,15
+1359908279424,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,456,8
+1359908279423,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,450,21
+1359908279454,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,470,9
+1359908279463,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,468,8
+1359908279463,29,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,454,29
+1359908279454,43,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,43
+1359908279463,37,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,468,37
+1359908279747,0,Debug Sampler,200,OK,Fedora group 1-4,text,true,2521,0
+1359908279738,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,14
+1359908279760,1,Debug Sampler,200,OK,Fedora group 1-1,text,true,2521,0
+1359908279744,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,460,20
+1359908279769,1,Debug Sampler,200,OK,Fedora group 1-3,text,true,2521,0
+1359908279800,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,452,10
+1359908279799,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,26
+1359908279844,19,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,19
+1359908279830,43,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,456,43
+1359908279882,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,11
+1359908279886,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,464,17
+1359908279914,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,463,10
+1359908279917,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,468,11
+1359908279949,1,Debug Sampler,200,OK,Fedora group 1-5,text,true,2521,0
+1359908279943,82,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,82
+1359908280059,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,463,10
+1359908280123,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,9
+1359908279784,389,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,389
+1359908280192,9,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908279972,289,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,289
+1359908279807,504,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,504
+1359908279800,513,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,513
+1359908280300,139,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,138
+1359908280276,164,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,164
+1359908280291,205,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,205
+1359908280462,204,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,204
+1359908280343,326,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,326
+1359908280343,330,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,330
+1359908280471,202,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,201
+1359908280685,103,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,103
+1359908280765,120,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1161,119
+1359908280827,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1161,67
+1359908280763,159,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,159
+1359908280763,292,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,292
+1359908280981,181,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,180
+1359908280986,196,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,196
+1359908281102,151,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1161,151
+1359908280782,464,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,464
+1359908281197,109,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,109
+1359908281007,284,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1161,284
+1359908281219,216,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,216
+1359908281360,113,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1161,113
+1359908281399,294,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,294
+1359908281361,335,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,335
+1359908281397,296,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,296
+1359908281708,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,80
+1359908281814,97,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,97
+1359908281770,145,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,133
+1359908281821,91,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,91
+1359908281815,125,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,125
+1359908281854,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,80
+1359908282006,112,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,112
+1359908282035,96,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,96
+1359908282034,139,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,138
+1359908282035,150,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,150
+1359908282060,122,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,122
+1359908282204,40,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,40
+1359908282216,61,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,61
+1359908282284,102,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,102
+1359908282283,106,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,106
+1359908282294,134,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,134
+1359908282408,89,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,89
+1359908282432,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,71
+1359908282479,75,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,75
+1359908282474,90,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,90
+1359908282471,89,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,89
+1359908282540,49,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,49
+1359908282576,85,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,85
+1359908282640,66,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1147,66
+1359908282722,17,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,17
+1359908282640,120,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1147,120
+1359908282625,143,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,143
+1359908282756,28,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,457,28
+1359908282657,122,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,121
+1359908282693,96,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,96
+1359908282815,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,8
+1359908282826,18,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,18
+1359908282936,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,21
+1359908282939,33,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,463,33
+1359908282837,141,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,141
+1359908282974,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,15
+1359908282991,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,9
+1359908283007,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,451,13
+1359908282940,73,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,71
+1359908283030,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,457,17
+1359908283040,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,453,14
+1359908282944,95,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1147,93
+1359908283069,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,15
+1359908283083,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,467,11
+1359908283060,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1147,56
+1359908283100,27,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,27
+1359908283119,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,24
+1359908283123,23,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,23
+1359908283069,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,76
+1359908283156,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,21
+1359908283166,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,13
+1359908283181,21,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,15
+1359908283182,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,24
+1359908283207,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,13
+1359908283206,19,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,19
+1359908283182,43,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,43
+1359908283222,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,459,15
+1359908283223,28,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,28
+1359908283259,0,Debug Sampler,200,OK,Fedora group 1-5,text,true,2523,0
+1359908283254,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,8
+1359908283254,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,465,18
+1359908283346,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,453,10
+1359908283357,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,463,8
+1359908283357,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,467,17
+1359908283373,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,21
+1359908283387,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,10
+1359908283422,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,467,8
+1359908283402,45,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,45
+1359908283420,28,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,28
+1359908283414,33,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,467,33
+1359908283366,100,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,242,100
+1359908283463,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,18
+1359908283487,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,15
+1359908283503,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,11
+1359908283515,15,Debug Sampler,200,OK,Fedora group 1-4,text,true,2523,0
+1359908283536,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,9
+1359908283561,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,461,13
+1359908283575,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,463,15
+1359908283614,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,14
+1359908283621,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,471,20
+1359908283655,19,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,19
+1359908283660,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,21
+1359908283516,201,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,201
+1359908283655,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,20
+1359908283733,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,10
+1359908283755,117,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,471,117
+1359908283755,123,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,467,123
+1359908283888,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,455,9
+1359908283610,309,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,309
+1359908283902,0,Debug Sampler,200,OK,Fedora group 1-1,text,true,2523,0
+1359908284021,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,9
+1359908283862,154,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,154
+1359908284021,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,457,15
+1359908284085,0,Debug Sampler,200,OK,Fedora group 1-3,text,true,2523,0
+1359908284080,23,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,469,23
+1359908284150,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,12
+1359908284241,1,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908284100,260,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,260
+1359908284101,326,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,325
+1359908284059,387,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,387
+1359908284386,269,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,268
+1359908284154,520,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,520
+1359908284386,470,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,469
+1359908284715,619,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,619
+1359908284478,865,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,865
+1359908284522,839,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,839
+1359908284697,679,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,679
+1359908284876,547,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,547
+1359908285380,214,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,214
+1359908285404,200,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,200
+1359908285446,159,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,159
+1359908285402,298,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,298
+1359908285382,318,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,318
+1359908285748,103,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,103
+1359908285785,81,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,81
+1359908285762,102,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,102
+1359908285786,79,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,79
+1359908285775,364,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,363
+1359908285916,226,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,226
+1359908285934,225,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,225
+1359908285929,232,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,232
+1359908285930,231,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,231
+1359908286209,94,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,94
+1359908286203,132,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,132
+1359908286234,102,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,101
+1359908286235,121,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,121
+1359908286206,162,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,162
+1359908286349,145,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,145
+1359908286484,45,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,45
+1359908286505,186,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,186
+1359908286516,189,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,188
+1359908286542,167,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,163
+1359908286667,64,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,64
+1359908286572,356,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,356
+1359908286771,172,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,172
+1359908286772,256,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1147,255
+1359908286795,247,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,247
+1359908286954,104,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,104
+1359908286800,254,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,254
+1359908286972,117,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,116
+1359908287081,26,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,26
+1359908287123,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,467,10
+1359908287124,53,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,53
+1359908287185,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,11
+1359908287198,95,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,94
+1359908287159,47,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,47
+1359908287309,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,14
+1359908287202,133,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,133
+1359908287362,23,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,23
+1359908287401,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,13
+1359908287350,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,71
+1359908287430,23,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,23
+1359908287370,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,67
+1359908287362,93,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,89
+1359908287395,66,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1147,66
+1359908287495,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,455,10
+1359908287523,18,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,17
+1359908287540,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,13
+1359908287513,47,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,47
+1359908287541,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,56
+1359908287590,32,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,32
+1359908287588,38,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,38
+1359908287539,92,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,92
+1359908287655,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,13
+1359908287669,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,469,10
+1359908287709,0,Debug Sampler,200,OK,Fedora group 1-5,text,true,2523,0
+1359908287696,15,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,15
+1359908287787,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,457,25
+1359908287670,115,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1147,115
+1359908287826,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,17
+1359908287712,123,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1147,123
+1359908287827,19,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,19
+1359908287870,15,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,15
+1359908287871,23,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,469,23
+1359908287880,29,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,469,29
+1359908287879,37,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,37
+1359908287921,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,11
+1359908287870,63,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,63
+1359908287937,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,467,10
+1359908287951,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,467,9
+1359908287951,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,16
+1359908287960,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,24
+1359908287959,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,467,26
+1359908287987,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,453,9
+1359908288002,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,12
+1359908288003,22,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,459,21
+1359908288029,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,24
+1359908288046,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,453,14
+1359908288052,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,465,20
+1359908288063,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,14
+1359908288091,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,10
+1359908288089,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,455,13
+1359908287999,104,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,104
+1359908288113,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,10
+1359908288115,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,465,13
+1359908288157,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,471,10
+1359908288159,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,453,9
+1359908288158,19,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,467,19
+1359908288170,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,20
+1359908288305,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,9
+1359908288325,1,Debug Sampler,200,OK,Fedora group 1-3,text,true,2523,0
+1359908288193,134,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,134
+1359908288323,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,16
+1359908288315,147,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,147
+1359908288359,122,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,453,122
+1359908288360,130,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,130
+1359908288512,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,9
+1359908288512,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,467,10
+1359908288533,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,455,11
+1359908288514,34,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,34
+1359908288554,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,11
+1359908288385,176,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,175
+1359908288364,206,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,206
+1359908288571,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,471,9
+1359908288598,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,9
+1359908288608,0,Debug Sampler,200,OK,Fedora group 1-1,text,true,2523,0
+1359908288652,0,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908288662,1,Debug Sampler,200,OK,Fedora group 1-4,text,true,2523,0
+1359908288602,141,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,141
+1359908288671,117,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,117
+1359908288710,122,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,121
+1359908288724,110,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,110
+1359908288710,129,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,129
+1359908288776,76,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,76
+1359908288874,85,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,85
+1359908288855,103,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,103
+1359908288878,165,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,165
+1359908288986,66,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,66
+1359908289011,75,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,75
+1359908288969,240,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,240
+1359908289043,183,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,183
+1359908289090,143,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,143
+1359908289117,119,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,119
+1359908289121,115,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,115
+1359908289253,44,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,44
+1359908289279,58,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,58
+1359908289279,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1161,70
+1359908289291,104,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,104
+1359908289388,50,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,50
+1359908289421,43,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,43
+1359908289444,78,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,76
+1359908289455,77,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,76
+1359908289515,85,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,85
+1359908289498,107,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,107
+1359908289539,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,71
+1359908289578,141,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,141
+1359908289577,144,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,144
+1359908289766,39,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1161,39
+1359908289794,58,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,51
+1359908289820,95,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,95
+1359908289821,117,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,115
+1359908289826,113,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,113
+1359908289885,61,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,61
+1359908289862,76,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,75
+1359908289957,57,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1161,57
+1359908290000,54,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1161,54
+1359908290017,57,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1147,57
+1359908290029,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1161,70
+1359908290037,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,70
+1359908290117,22,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,22
+1359908290078,62,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,62
+1359908290166,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,11
+1359908290132,65,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,65
+1359908290201,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,20
+1359908290166,63,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,63
+1359908290221,120,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,120
+1359908290203,137,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,137
+1359908290355,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,13
+1359908290387,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,8
+1359908290433,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,451,13
+1359908290397,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,68
+1359908290468,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,12
+1359908290413,76,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1147,76
+1359908290445,70,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,70
+1359908290438,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,71
+1359908290534,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,9
+1359908290573,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,451,17
+1359908290556,67,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,67
+1359908290554,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,71
+1359908290633,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,9
+1359908290643,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,14
+1359908290581,103,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1147,103
+1359908290683,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,9
+1359908290586,88,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,88
+1359908290684,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,19
+1359908290725,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,9
+1359908290683,57,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,57
+1359908290751,0,Debug Sampler,200,OK,Fedora group 1-5,text,true,2523,0
+1359908290743,13,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,13
+1359908290763,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,8
+1359908290778,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,453,10
+1359908290803,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,14
+1359908290778,49,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1147,49
+1359908290810,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,26
+1359908290798,48,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,48
+1359908290829,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,20
+1359908290850,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,459,13
+1359908290867,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,9
+1359908290810,68,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,68
+1359908290877,99,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,99
+1359908290971,24,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,24
+1359908290990,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,455,14
+1359908291001,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,8
+1359908290991,53,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,53
+1359908291042,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,13
+1359908291001,74,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,74
+1359908291083,57,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,57
+1359908291073,96,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,465,96
+1359908291109,77,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,77
+1359908291153,45,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,45
+1359908291180,37,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,455,37
+1359908291226,45,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,45
+1359908291082,196,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,196
+1359908291239,46,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,46
+1359908291227,59,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,58
+1359908291083,247,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,247
+1359908291308,38,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,465,38
+1359908291300,48,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,48
+1359908291294,59,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,59
+1359908291341,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,457,25
+1359908291369,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,453,14
+1359908291370,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,15
+1359908291370,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,453,26
+1359908291380,22,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,467,22
+1359908291320,90,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,89
+1359908291410,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,467,11
+1359908291431,1,Debug Sampler,200,OK,Fedora group 1-3,text,true,2523,0
+1359908291428,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,465,9
+1359908291442,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,9
+1359908291463,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,9
+1359908291475,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,9
+1359908291475,31,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,31
+1359908291515,0,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908291517,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,15
+1359908291488,53,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,53
+1359908291539,4,Debug Sampler,200,OK,Fedora group 1-4,text,true,2523,0
+1359908291474,162,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,162
+1359908291643,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,459,12
+1359908291688,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,12
+1359908291660,64,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,64
+1359908291739,1,Debug Sampler,200,OK,Fedora group 1-1,text,true,2523,0
+1359908291677,87,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,87
+1359908291687,96,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,96
+1359908291713,63,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,63
+1359908291749,68,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,68
+1359908291802,54,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,54
+1359908291817,355,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,354
+1359908291861,322,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,322
+1359908291816,378,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,374
+1359908291884,330,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,330
+1359908291880,314,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,312
+1359908292253,74,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,74
+1359908292242,118,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,118
+1359908292282,103,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,103
+1359908292299,147,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,146
+1359908292295,156,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,156
+1359908292384,72,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,72
+1359908292408,85,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,85
+1359908292355,208,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,208
+1359908292520,236,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,236
+1359908292523,231,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,231
+1359908292543,224,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,224
+1359908292555,217,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,212
+1359908292606,299,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,299
+1359908292910,82,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,82
+1359908292963,92,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,92
+1359908292961,108,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,107
+1359908292962,116,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,116
+1359908293023,89,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,89
+1359908292961,151,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,151
+1359908293136,51,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1147,51
+1359908293140,52,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,52
+1359908293246,24,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,24
+1359908293282,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,457,11
+1359908293303,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,457,8
+1359908293324,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,9
+1359908293344,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,457,12
+1359908293197,171,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,171
+1359908293231,147,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,146
+1359908293245,143,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,143
+1359908293385,19,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,19
+1359908293210,183,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,181
+1359908293439,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,453,10
+1359908293484,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,467,14
+1359908293428,76,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,76
+1359908293516,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,467,12
+1359908293540,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,17
+1359908293571,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,8
+1359908293476,108,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,108
+1359908293461,127,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,127
+1359908293464,120,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,120
+1359908293537,115,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,115
+1359908293781,0,Debug Sampler,200,OK,Fedora group 1-5,text,true,2523,0
+1359908293641,255,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,255
+1359908293800,137,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,134
+1359908293790,144,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,144
+1359908293784,151,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,149
+1359908293925,51,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,51
+1359908293819,127,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,127
+1359908294007,64,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,64
+1359908294027,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,56
+1359908294018,84,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,84
+1359908294052,57,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1147,57
+1359908294076,89,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,89
+1359908294155,35,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,32
+1359908294187,28,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,28
+1359908294130,81,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,81
+1359908294156,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,80
+1359908294235,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,10
+1359908294234,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,17
+1359908294265,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,14
+1359908294215,72,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1147,72
+1359908294284,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,16
+1359908294307,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,469,9
+1359908294326,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,13
+1359908294285,64,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,64
+1359908294342,22,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,22
+1359908294356,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,455,14
+1359908294305,72,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1147,69
+1359908294368,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,24
+1359908294391,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,16
+1359908294425,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,467,9
+1359908294438,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,453,9
+1359908294454,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,9
+1359908294454,16,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,16
+1359908294468,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,13
+1359908294480,131,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,131
+1359908294613,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,9
+1359908294465,146,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,146
+1359908294636,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,14
+1359908294633,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,17
+1359908294647,22,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,459,22
+1359908294672,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,8
+1359908294698,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,455,10
+1359908294698,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,10
+1359908294699,19,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,19
+1359908294731,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,455,13
+1359908294752,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,471,8
+1359908294737,28,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,471,28
+1359908294737,29,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,29
+1359908294697,66,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,66
+1359908294787,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,465,9
+1359908294794,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,8
+1359908294787,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,453,18
+1359908294830,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,11
+1359908294827,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,16
+1359908294850,0,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908294852,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,14
+1359908294887,1,Debug Sampler,200,OK,Fedora group 1-3,text,true,2523,0
+1359908294882,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,461,10
+1359908294899,22,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,22
+1359908294832,87,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,87
+1359908294910,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,21
+1359908294950,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,457,11
+1359908294897,72,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,72
+1359908294978,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,461,12
+1359908294994,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,10
+1359908295018,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,8
+1359908295028,1,Debug Sampler,200,OK,Fedora group 1-4,text,true,2523,0
+1359908294949,94,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,94
+1359908295037,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,8
+1359908294977,73,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,67
+1359908295004,82,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,82
+1359908295116,0,Debug Sampler,200,OK,Fedora group 1-1,text,true,2523,0
+1359908295075,94,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,94
+1359908295105,76,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,76
+1359908295147,151,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,151
+1359908295121,181,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,181
+1359908295135,163,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,163
+1359908295197,150,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,148
+1359908295318,82,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,82
+1359908295350,78,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,78
+1359908295368,97,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,97
+1359908295414,64,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,62
+1359908295442,43,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,43
+1359908295398,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,80
+1359908295469,149,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,149
+1359908295553,69,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,68
+1359908295554,108,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,108
+1359908295530,124,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,124
+1359908295557,116,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,116
+1359908295648,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1166,80
+1359908295675,52,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,52
+1359908295784,15,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,15
+1359908295747,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,68
+1359908295743,83,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,83
+1359908295841,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,13
+1359908295790,52,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,52
+1359908295765,69,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,69
+1359908295891,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,467,10
+1359908295873,44,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,44
+1359908295932,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,10
+1359908295893,49,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,48
+1359908295933,48,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,48
+1359908295983,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,8
+1359908295950,164,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,164
+1359908296120,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,26
+1359908296115,51,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,51
+1359908296180,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,9
+1359908296145,65,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,65
+1359908296224,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,13
+1359908296185,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,71
+1359908296210,73,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,73
+1359908296291,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,13
+1359908296237,69,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,69
+1359908296308,52,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,52
+1359908296365,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,451,12
+1359908296364,63,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,63
+1359908296397,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,56
+1359908296478,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,467,8
+1359908296465,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,64
+1359908296502,48,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,48
+1359908296576,0,Debug Sampler,200,OK,Fedora group 1-5,text,true,2523,0
+1359908296544,85,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,85
+1359908296595,76,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,76
+1359908296628,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,65
+1359908296627,82,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,82
+1359908296673,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,80
+1359908296622,188,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,188
+1359908296746,86,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,86
+1359908296709,123,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1166,123
+1359908296873,16,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,16
+1359908296899,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,13
+1359908296775,147,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1166,147
+1359908296786,152,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,152
+1359908296948,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,457,9
+1359908296841,237,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,237
+1359908296948,133,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,133
+1359908296874,83,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1166,83
+1359908297099,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,467,9
+1359908297114,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,10
+1359908297146,14,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,14
+1359908297153,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,467,21
+1359908297172,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,463,18
+1359908297186,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,10
+1359908297153,44,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,44
+1359908297216,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,469,10
+1359908297216,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,12
+1359908297217,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,21
+1359908297246,129,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,129
+1359908297243,136,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,467,136
+1359908297259,123,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,459,123
+1359908297399,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,457,12
+1359908297400,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,467,24
+1359908297406,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,20
+1359908297132,288,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,288
+1359908297147,282,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,282
+1359908297457,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,459,12
+1359908297459,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,453,10
+1359908297477,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,9
+1359908297507,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,457,9
+1359908297508,30,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,30
+1359908297529,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,11
+1359908297508,33,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,455,33
+1359908297492,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1166,71
+1359908297562,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,12
+1359908297566,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,18
+1359908297599,1,Debug Sampler,200,OK,Fedora group 1-3,text,true,2523,0
+1359908297495,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,67
+1359908297610,27,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,27
+1359908297624,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,16
+1359908297657,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,471,13
+1359908297684,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,459,13
+1359908297702,1,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908297698,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,453,17
+1359908297653,75,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,242,75
+1359908297746,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,9
+1359908297696,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,68
+1359908297766,113,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,113
+1359908297759,128,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,463,128
+1359908297888,23,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,471,23
+1359908297934,7,Debug Sampler,200,OK,Fedora group 1-4,text,true,2523,0
+1359908297940,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,11
+1359908297965,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,13
+1359908297887,94,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,94
+1359908297924,94,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,94
+1359908297925,86,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,86
+1359908298016,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,453,11
+1359908298061,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,8
+1359908298093,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,8
+1359908298111,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,14
+1359908298136,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,9
+1359908297974,198,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,198
+1359908298172,0,Debug Sampler,200,OK,Fedora group 1-1,text,true,2523,0
+1359908298046,132,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,132
+1359908298072,107,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,107
+1359908298072,116,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,116
+1359908298229,71,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,71
+1359908298269,159,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,159
+1359908298265,179,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,179
+1359908298313,124,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,123
+1359908298339,102,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,102
+1359908298261,187,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,187
+1359908298485,111,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,111
+1359908298514,79,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,78
+1359908298526,92,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,92
+1359908298527,93,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,88
+1359908298527,97,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,97
+1359908298638,45,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,45
+1359908298656,46,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,46
+1359908298705,134,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,134
+1359908298850,74,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,74
+1359908298727,195,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,195
+1359908298882,74,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,74
+1359908298891,63,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,63
+1359908298949,39,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,39
+1359908299018,50,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,50
+1359908299042,84,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,84
+1359908299053,66,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,66
+1359908299048,85,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,85
+1359908299061,72,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,62
+1359908299116,50,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,50
+1359908299184,42,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1147,42
+1359908299204,50,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,50
+1359908299220,62,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,62
+1359908299240,58,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,58
+1359908299287,35,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,35
+1359908299349,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,24
+1359908299273,95,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,95
+1359908299408,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,15
+1359908299367,55,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,55
+1359908299344,93,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,93
+1359908299445,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,9
+1359908299366,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,71
+1359908299488,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,8
+1359908299456,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,56
+1359908299513,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,455,8
+1359908299555,22,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,457,22
+1359908299526,49,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,41
+1359908299597,132,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,455,132
+1359908299542,187,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,187
+1359908299545,209,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,209
+1359908299761,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,17
+1359908299581,195,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,193
+1359908299819,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,451,9
+1359908299848,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,473,18
+1359908299789,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1147,66
+1359908299823,73,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,73
+1359908299909,0,Debug Sampler,200,OK,Fedora group 1-5,text,true,2523,0
+1359908299893,19,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,16
+1359908299848,81,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,80
+1359908299824,104,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,104
+1359908299937,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,469,12
+1359908299941,20,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,20
+1359908299971,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,17
+1359908299988,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,12
+1359908300026,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,469,14
+1359908300028,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,467,20
+1359908300056,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,10
+1359908300063,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,9
+1359908299997,78,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,78
+1359908299998,94,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,94
+1359908299997,83,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1147,83
+1359908300094,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,25
+1359908300124,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,8
+1359908300162,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,9
+1359908300163,26,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,26
+1359908300176,15,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,15
+1359908300135,77,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,77
+1359908300206,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,11
+1359908300222,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,453,11
+1359908300230,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,15
+1359908300194,50,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,50
+1359908300263,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,453,9
+1359908300264,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,469,12
+1359908300285,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,457,18
+1359908300303,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,457,10
+1359908300315,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,469,12
+1359908300276,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,56
+1359908300345,127,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,127
+1359908300344,130,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,459,130
+1359908300335,134,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1147,134
+1359908300476,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,9
+1359908300494,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,459,11
+1359908300511,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,469,10
+1359908300526,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,9
+1359908300548,0,Debug Sampler,200,OK,Fedora group 1-3,text,true,2523,0
+1359908300545,17,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,15
+1359908300553,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,14
+1359908300566,1,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908300525,76,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,76
+1359908300601,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,16
+1359908300586,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,465,23
+1359908300645,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,465,10
+1359908300647,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,9
+1359908300691,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,455,11
+1359908300602,105,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,105
+1359908300702,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,453,14
+1359908300629,91,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,91
+1359908300692,54,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,54
+1359908300740,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,471,12
+1359908300737,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,16
+1359908300784,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,16
+1359908300807,0,Debug Sampler,200,OK,Fedora group 1-4,text,true,2523,0
+1359908300826,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,25
+1359908300863,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,9
+1359908300804,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,67
+1359908300768,115,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,115
+1359908300906,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,467,10
+1359908300840,79,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,79
+1359908300783,157,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,157
+1359908300920,48,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,48
+1359908300968,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,471,14
+1359908300940,65,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,57
+1359908300969,68,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,68
+1359908301041,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,12
+1359908301021,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,67
+1359908301114,1,Debug Sampler,200,OK,Fedora group 1-1,text,true,2523,0
+1359908301064,65,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,65
+1359908301092,44,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,44
+1359908301091,168,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,168
+1359908301303,114,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,114
+1359908301315,127,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,127
+1359908301336,123,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,123
+1359908301315,154,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,154
+1359908301310,157,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,156
+1359908301434,99,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,99
+1359908301500,43,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,43
+1359908301526,79,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,78
+1359908301562,76,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,76
+1359908301593,95,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,95
+1359908301592,111,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,111
+1359908301605,102,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,102
+1359908301637,70,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,70
+1359908301677,47,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,47
+1359908301778,45,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,45
+1359908301776,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,67
+1359908301809,72,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,72
+1359908301799,101,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,101
+1359908301823,89,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1147,89
+1359908301873,53,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,53
+1359908301966,14,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,14
+1359908301992,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,9
+1359908302013,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,10
+1359908301905,131,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,131
+1359908302037,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,478,9
+1359908301996,69,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,69
+1359908301944,129,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,129
+1359908302073,129,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,451,129
+1359908301969,108,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,108
+1359908302233,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,13
+1359908302206,62,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,62
+1359908302291,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,12
+1359908302254,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,68
+1359908302270,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,68
+1359908302349,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,10
+1359908302324,68,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,68
+1359908302294,95,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,95
+1359908302408,21,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,21
+1359908302383,55,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,55
+1359908302387,98,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,98
+1359908302485,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,465,10
+1359908302520,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,11
+1359908302463,83,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,81
+1359908302457,83,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,83
+1359908302575,1,Debug Sampler,200,OK,Fedora group 1-5,text,true,2523,0
+1359908302505,73,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,73
+1359908302549,104,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,104
+1359908302614,62,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,62
+1359908302633,79,Fedora Delete Object Request,200,OK,Fedora group 1-5,text,true,243,78
+1359908302641,79,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,75
+1359908302693,42,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,42
+1359908302636,93,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1147,93
+1359908302722,51,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1147,51
+1359908302785,27,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,455,27
+1359908302789,45,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,45
+1359908302800,44,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,44
+1359908302833,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,20
+1359908302849,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,13
+1359908302800,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,80
+1359908302875,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,14
+1359908302893,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,9
+1359908302774,131,Fedora Create Object Request,201,Created,Fedora group 1-5,text,true,288,131
+1359908302903,122,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,480,122
+1359908302913,127,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,486,127
+1359908303044,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,465,14
+1359908303078,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,10
+1359908303079,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,9
+1359908303097,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,486,14
+1359908303104,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,13
+1359908303065,72,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,72
+1359908303137,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,8
+1359908303124,27,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,27
+1359908303129,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,465,25
+1359908303088,84,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,82
+1359908303177,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,9
+1359908303177,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,9
+1359908303191,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,10
+1359908303202,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,459,14
+1359908303222,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,8
+1359908303242,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,10
+1359908303271,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,16
+1359908303266,22,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,451,22
+1359908303272,20,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,20
+1359908303303,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,453,9
+1359908303242,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,71
+1359908303320,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,461,11
+1359908303267,72,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1147,72
+1359908303346,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,453,10
+1359908303347,10,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,10
+1359908303349,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,471,16
+1359908303407,0,Debug Sampler,200,OK,Fedora group 1-3,text,true,2523,0
+1359908303427,0,Debug Sampler,200,OK,Fedora group 1-2,text,true,2523,0
+1359908303411,29,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,28
+1359908303417,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,457,24
+1359908303395,54,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,54
+1359908303488,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,12
+1359908303501,1,Debug Sampler,200,OK,Fedora group 1-4,text,true,2523,0
+1359908303449,59,Fedora Delete Object Request,200,OK,Fedora group 1-3,text,true,243,59
+1359908303457,65,Fedora Delete Object Request,200,OK,Fedora group 1-2,text,true,243,65
+1359908303519,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,16
+1359908303548,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,472,16
+1359908303511,66,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,66
+1359908303592,12,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,12
+1359908303561,68,Fedora Delete Object Request,200,OK,Fedora group 1-4,text,true,243,68
+1359908303560,91,Fedora Create Object Request,201,Created,Fedora group 1-3,text,true,288,91
+1359908303560,205,Fedora Create Object Request,201,Created,Fedora group 1-2,text,true,288,205
+1359908303774,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,9
+1359908303796,50,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,50
+1359908303873,33,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,467,33
+1359908303799,113,Fedora Create Object Request,201,Created,Fedora group 1-4,text,true,288,113
+1359908303862,61,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,61
+1359908303932,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,11
+1359908303849,104,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,104
+1359908303892,62,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,62
+1359908303980,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,465,16
+1359908303957,36,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,36
+1359908304014,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,451,8
+1359908304033,16,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,467,16
+1359908304033,47,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,42
+1359908304110,1,Debug Sampler,200,OK,Fedora group 1-1,text,true,2523,0
+1359908304052,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,67
+1359908304051,57,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,57
+1359908304099,45,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,45
+1359908304173,47,Fedora Delete Object Request,200,OK,Fedora group 1-1,text,true,243,47
+1359908304165,51,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,51
+1359908304224,62,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,62
+1359908304239,52,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,52
+1359908304256,80,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,80
+1359908304257,92,Fedora Create Object Request,201,Created,Fedora group 1-1,text,true,288,92
+1359908304304,67,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,67
+1359908304365,74,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,73
+1359908304376,270,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,270
+1359908304472,193,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,192
+1359908304421,266,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1142,261
+1359908304422,265,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,264
+1359908304446,247,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,240
+1359908304724,162,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,162
+1359908304857,44,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,44
+1359908304904,38,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,38
+1359908304921,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-5,text,true,1147,71
+1359908304921,103,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,102
+1359908304967,77,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,68
+1359908305021,30,Fedora Get Object Request,200,OK,Fedora group 1-5,text,true,2839,19
+1359908304970,83,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,83
+1359908305089,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,9
+1359908305014,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,71
+1359908305090,49,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,49
+1359908305158,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,461,17
+1359908305195,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,9
+1359908305144,69,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,69
+1359908305157,84,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,84
+1359908305223,35,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,35
+1359908305159,102,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,102
+1359908305197,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,71
+1359908305283,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,463,9
+1359908305243,65,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,65
+1359908305310,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,471,9
+1359908305364,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,469,15
+1359908305392,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,17
+1359908305347,82,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1142,82
+1359908305422,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,459,24
+1359908305358,81,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1142,81
+1359908305461,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-5,text,true,457,11
+1359908305374,164,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,164
+1359908305373,176,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,171
+1359908305483,71,Fedora Create Binary Resource Request,201,Created,Fedora group 1-4,text,true,1147,71
+1359908305484,135,Fedora Create Binary Resource Request,201,Created,Fedora group 1-3,text,true,1147,135
+1359908305606,38,Fedora Get Object Request,200,OK,Fedora group 1-4,text,true,2839,38
+1359908305650,15,Fedora Get Object Request,200,OK,Fedora group 1-3,text,true,2839,14
+1359908305659,144,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,463,144
+1359908305804,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,459,9
+1359908305598,204,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,203
+1359908305607,192,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1142,192
+1359908305832,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,463,8
+1359908305837,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,465,13
+1359908305873,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,463,9
+1359908305909,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,467,11
+1359908305912,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,461,15
+1359908305884,51,Fedora Create Binary Resource Request,201,Created,Fedora group 1-2,text,true,1147,51
+1359908305885,56,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,56
+1359908305946,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,469,8
+1359908305958,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,471,9
+1359908305984,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,459,14
+1359908305990,24,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,457,24
+1359908306011,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,469,8
+1359908305987,42,Fedora Get Object Request,200,OK,Fedora group 1-2,text,true,2839,16
+1359908306030,14,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,459,13
+1359908306043,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,15
+1359908306057,11,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,453,11
+1359908306082,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,451,9
+1359908306005,59,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1142,59
+1359908306095,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,465,9
+1359908306107,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,467,8
+1359908306122,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-4,text,true,459,9
+1359908306134,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,455,9
+1359908306170,17,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,469,17
+1359908306189,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,463,13
+1359908306144,57,Fedora Create Binary Resource Request,201,Created,Fedora group 1-1,text,true,1147,57
+1359908306221,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,451,15
+1359908306241,15,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,461,15
+1359908306265,13,Fedora Get Object Request,200,OK,Fedora group 1-1,text,true,2839,13
+1359908306268,18,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,455,18
+1359908306287,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-3,text,true,471,8
+1359908306301,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,455,8
+1359908306318,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,455,13
+1359908306325,25,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,25
+1359908306343,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,453,8
+1359908306370,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,9
+1359908306372,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,457,8
+1359908306391,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,465,9
+1359908306393,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-2,text,true,459,8
+1359908306412,13,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,463,13
+1359908306436,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,455,8
+1359908306455,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,465,8
+1359908306477,9,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,469,9
+1359908306498,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,457,8
+1359908306517,8,Fedora Read Binary Resource Request,200,OK,Fedora group 1-1,text,true,455,8

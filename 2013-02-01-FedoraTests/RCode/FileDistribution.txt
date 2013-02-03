@@ -1,0 +1,26 @@
+File sizes (gaussian ditribution for generating files)
+
+	Mean		STDDEV		Bin size
+-------------------------------------------------
+1k	1024		102             12.24
+10k	8192		819		98.28
+100k 	104858		10486		1258.32
+1M	1048576		104858		12582.96
+10M	8388608		838861		100663.32
+100M	107374182	10737418	1288490.16
+
+
+(6 * 102) / 50		((1024 + (3 * 102)) - (1024 - (3 * 102))) / 50
+(6 * 819) / 50
+(6 * 10486) / 50
+(6 * 104858) / 50
+(6 * 838861) / 50
+(6 * 10737418) / 50
+
+jmeter-fedora-1024mean-102stddev-1threads.csv
+jmeter-fedora-8192mean-819stddev-1threads.csv
+jmeter-fedora-104858mean-10486stddev-1threads.csv
+jmeter-fedora-1048576mean-104858stddev-1threads.csv
+jmeter-fedora-8388608mean-838861stddev-1threads.csv
+jmeter-fedora-107374182mean-10737418stddev-1threads.csv
+
