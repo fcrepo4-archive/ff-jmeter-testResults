@@ -1,0 +1,64 @@
+   timeStamp           elapsed         label           responseCode      
+ Min.   :1.36e+12   Min.   :    0   Length:335095      Length:335095     
+ 1st Qu.:1.36e+12   1st Qu.:   47   Class :character   Class :character  
+ Median :1.36e+12   Median :  139   Mode  :character   Mode  :character  
+ Mean   :1.36e+12   Mean   : 1021                                        
+ 3rd Qu.:1.36e+12   3rd Qu.:  942                                        
+ Max.   :1.36e+12   Max.   :27772                                        
+                                                                         
+                                                              responseMessage  
+ Created                                                              :141039  
+ OK                                                                   :188655  
+ Non HTTP response message: Connection reset                          :     2  
+ Not Found                                                            :  1207  
+ Internal Server Error                                                :   859  
+ Non HTTP response message: Connection to http://futures6:8080 refused:  3333  
+ Non HTTP response message: The target server failed to respond       :     0  
+  threadName        dataType       success           bytes        
+ Length:335095      text:334236   true :329694   Min.   :    182  
+ Class :character       :   859   false:  5401   1st Qu.:    400  
+ Mode  :character                                Median :   1602  
+                                                 Mean   : 133660  
+                                                 3rd Qu.:  97891  
+                                                 Max.   :1434909  
+                                                                  
+    Latency      threadCount          fileSize        
+ Min.   :    0   Length:335095      Length:335095     
+ 1st Qu.:   44   Class :character   Class :character  
+ Median :  128   Mode  :character   Mode  :character  
+ Mean   : 1000                                        
+ 3rd Qu.:  894                                        
+ Max.   :27772                                        
+                                                      
+   timeStamp           elapsed         label           responseCode      
+ Min.   :1.36e+12   Min.   :    0   Length:2425385     Length:2425385    
+ 1st Qu.:1.36e+12   1st Qu.:   93   Class :character   Class :character  
+ Median :1.36e+12   Median :  250   Mode  :character   Mode  :character  
+ Mean   :1.36e+12   Mean   : 1645                                        
+ 3rd Qu.:1.36e+12   3rd Qu.: 1782                                        
+ Max.   :1.36e+12   Max.   :54205                                        
+                                                                         
+                                                              responseMessage   
+ Created                                                              : 212574  
+ OK                                                                   :2147447  
+ Non HTTP response message: Connection reset                          :    247  
+ Not Found                                                            :  19231  
+ Internal Server Error                                                :   4126  
+ Non HTTP response message: Connection to http://futures6:8080 refused:  41636  
+ Non HTTP response message: The target server failed to respond       :    124  
+  threadName        dataType        success            bytes        
+ Length:2425385     text:2407241   true :2360021   Min.   :    180  
+ Class :character       :  18144   false:  65364   1st Qu.:   1048  
+ Mode  :character                                  Median :   1050  
+                                                   Mean   :  11615  
+                                                   3rd Qu.:   1066  
+                                                   Max.   :1434909  
+                                                                    
+    Latency       threadCount       fileSize      
+ Min.   :    0   Min.   :  1.0   Min.   :      1  
+ 1st Qu.:   93   1st Qu.: 40.0   1st Qu.:      1  
+ Median :  247   Median : 80.0   Median :   1024  
+ Mean   : 1641   Mean   :120.6   Mean   : 158334  
+ 3rd Qu.: 1778   3rd Qu.:160.0   3rd Qu.: 104858  
+ Max.   :54205   Max.   :320.0   Max.   :1048576  
+                 NA's   :37      NA's   :37       
