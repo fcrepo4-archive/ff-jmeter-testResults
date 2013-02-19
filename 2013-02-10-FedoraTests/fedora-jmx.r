@@ -20,11 +20,16 @@ time.labels<-c("1ms", "3.16ms", "10ms", "31.62ms", "100ms", "316.22ms", "1s", "3
 size.breaks<-c(10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000);
 size.labels<-c("10B", "100B", "1kB", "10kB", "100kB", "1MB", "10MB", "100MB", "1GB");
 
-crudNumber.breaks<-c(0, 100, 10000, 1000000, 100000000, 10000000000, 1000000000000, 100000000000000);
-crudNumber.labels<-c("0", "100", "10k", "1M", "100M", "10Bil", "1Tri", "100Tri");
+#crudNumber.breaks<-c(0, 100, 10000, 1000000, 100000000, 10000000000, 1000000000000, 100000000000000);
+#crudNumber.labels<-c("0", "100", "10k", "1M", "100M", "10Bil", "1Tri", "100Tri");
+
+crudNumber.breaks<-c(0, 3.16, 10, 31.62, 100, 316.22, 1000, 3162.28, 10000, 31622.7, 100000, 316227.7, 1000000, 3162277.6, 10000000);
+crudNumber.labels<-c("0", "3", "10", "31", "100", "316", "1k", "3.16k", "10k", "31.6k", "0.1M", "0.3M", "1M", "3.16M", "10M");
 
 yaxis.rates.breaks <- c(0.00001, 0.0001, 0.001, 0.01, 0.1)
 yaxis.rates.labels <- c("10ns/B", "100ns/B", "1us/B", "10us/B", "100us/B")
+
+colour.scale=c("#008500", "#00cc00", "#FF7C00", "#FDB462", "#EB3A1E", "#FFAA00", "#377EB8", "#87B5DC", "#BEBADA", "#382F85", "#999999", "#984EA3", "#F781BF", "#A65628")
 
 data.defined <- FALSE;
 
@@ -138,7 +143,9 @@ data.all <- transform(data.all, label = factor(label, levels=c("Delete Object", 
 data.all <- transform(data.all, responseCode = factor(responseCode))
 
 # Creating a bar chart of response codes
-p <- ggplot(data=data.all, aes(x=label, fill=responseCode)) + geom_bar() + facet_grid(threadCount ~ ., scales="free_y") + scale_y_log10(breaks=crudNumber.breaks, labels=crudNumber.labels, name="Request response count (log scale)") + scale_fill_manual(values = c("#2E8A73", "#4DAF4A", "#FB8072", "#FDB462", "#EB3A1E", "#FFFF33", "#377EB8", "#BEBADA", "#F781BF", "#999999", "#984EA3", "#A65628"));
+#p <- ggplot(data=data.all, aes(x=label, fill=responseCode)) + geom_bar() + facet_grid(threadCount ~ ., scales="free_y") + scale_y_log10(breaks=crudNumber.breaks, #labels=crudNumber.labels, name="Request response count (log scale)") + scale_fill_manual(values = colour.scale);
+
+p <- ggplot(data=data.all, aes(x=label, fill=responseCode)) + geom_bar(position="dodge") + facet_grid(threadCount ~ ., scales="free_y") + scale_y_log10() + scale_y_log10(breaks=crudNumber.breaks, labels=crudNumber.labels, name="Request response count (log scale)") + scale_fill_manual(values = colour.scale);
 
 p + opts(title = "Status of request response, arranged by number of concurrent calls (thread count)", axis.text.x=theme_text(angle=0)) + labs(x="Operation");
 
