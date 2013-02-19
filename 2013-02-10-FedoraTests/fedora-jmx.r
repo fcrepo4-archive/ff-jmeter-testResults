@@ -1,6 +1,8 @@
 library(ggplot2);
 library(gridExtra);
 library(tcltk);
+library(RColorBrewer);
+library(plyr);
 
 options <- commandArgs(trailingOnly = TRUE);
 path <- tk_choose.dir(default = getwd(), caption = "Select data directory")
@@ -18,8 +20,8 @@ time.labels<-c("1ms", "3.16ms", "10ms", "31.62ms", "100ms", "316.22ms", "1s", "3
 size.breaks<-c(10, 100, 1000, 10000, 100000, 1000000, 10000000, 100000000, 1000000000);
 size.labels<-c("10B", "100B", "1kB", "10kB", "100kB", "1MB", "10MB", "100MB", "1GB");
 
-threadCount.breaks<-c(1, 5, 10, 20, 40, 80, 160);
-threadCount.labels<-c("1", "5", "10", "20", "40", "80", "160");
+crudNumber.breaks<-c(0, 100, 10000, 1000000, 100000000, 10000000000, 1000000000000, 100000000000000);
+crudNumber.labels<-c("0", "100", "10k", "1M", "100M", "10Bil", "1Tri", "100Tri");
 
 yaxis.rates.breaks <- c(0.00001, 0.0001, 0.001, 0.01, 0.1)
 yaxis.rates.labels <- c("10ns/B", "100ns/B", "1us/B", "10us/B", "100us/B")
@@ -127,37 +129,47 @@ for (thread.count in thread.counts) {
   }
 }
 
-# Creating a bar chart of response codes
-#data.all2 <- transform(data.all, 
-#    fileSize = factor(fileSize, levels=c(1, 1024, 8192, 104858, 1048576), 
-#        labels=c("1B", "~ 1kB", "~8kB", "~1MB", "~10MB")))
-
+# Transforming the data
 data.all$fileSize <- as.numeric(data.all$fileSize);
 data.all$threadCount <- as.numeric(data.all$threadCount);
 
-p <- ggplot(data=data.all, aes(x=label, count, fill=responseCode)) + geom_bar() + facet_grid(threadCount ~ fileSize);
-p + opts(title = "Status of request response, arranged by file size and number of concurrent calls (thread count)", axis.text.x=theme_text(angle=-90), x=);
-ggsave( filename="StatusOfResponse-1.png", scale=2);
+data.all <- transform(data.all, label = factor(label, levels=c("Delete Object", "Create Object", "Get Object", "Create Binary Resource", "Modify Binary Resource", "Read Binary Resource"), labels=c("Delete object", "Create object", "Read object", "Create data", "Update data", "Read data")))
 
-p <- ggplot(data=data.all, aes(x=label, fill=responseCode)) + geom_bar() + facet_grid(threadCount ~ fileSize, scales="free_y");
-p + opts(title = "Status of request response, arranged by file size and number of concurrent calls (thread count)", axis.text.x=theme_text(angle=-90));
-ggsave( filename="StatusOfResponse-2.png", scale=2);
+data.all <- transform(data.all, responseCode = factor(responseCode))
 
-data.all2 <- transform(data.all, label = factor(label, levels=c("Delete Object", "Create Object", "Get Object", "Create Binary Resource", "Modify Binary Resource", "Read Binary Resource"), labels=c("Delete object", "Create object", "Get object", "Create data", "Modify data", "Get data")))
+# Creating a bar chart of response codes
+p <- ggplot(data=data.all, aes(x=label, fill=responseCode)) + geom_bar() + facet_grid(threadCount ~ ., scales="free_y") + scale_y_log10(breaks=crudNumber.breaks, labels=crudNumber.labels, name="Request response count (log scale)") + scale_fill_manual(values = c("#2E8A73", "#4DAF4A", "#FB8072", "#FDB462", "#EB3A1E", "#FFFF33", "#377EB8", "#BEBADA", "#F781BF", "#999999", "#984EA3", "#A65628"));
 
-p <- ggplot(data=data.all2, aes(x=factor(as.character(fileSize), levels=c(1, 1024, 8192, 104858, 1048576), labels=c("1B", "~ 1kB", "~8kB", "~1MB", "~10MB")), fill=responseCode)) + geom_bar() + facet_grid(label ~ threadCount, scales="free_y");
-p + opts(title = "Status of request response, arranged by file size and number of concurrent calls (thread count)", axis.text.x=theme_text(angle=-90)) +
-labs(x="Mean file size (B)", y="Count");
-ggsave( filename="StatusOfResponse-3.png", scale=2);
+p + opts(title = "Status of request response, arranged by number of concurrent calls (thread count)", axis.text.x=theme_text(angle=0)) + labs(x="Operation");
 
-# Creating a box plot of Number of concurrent calls by Jmeter (thread count) vs time taken for each response
+ggsave( filename="StatusOfResponse.png", height=14.4, width=14.4);
+
+# Creating a box plot of Number of concurrent calls by Jmeter (thread count) vs time taken (grouped for each response)
 p <- ggplot(data=data.all, aes(factor(as.character(data.all$threadCount)), data.all$elapsed, fill=data.all$label)) + geom_boxplot() + 
 scale_y_log10(breaks=time.breaks, labels=time.labels, name="Elapsed time (ms)") +
-xlim("1", "5", "10", "20", "40", "80", "160") + xlab("Threads") + geom_smooth(aes(group = threadCount))
+xlim(as.character(sort(thread.counts))) + xlab("Threads");
 
-p + labs(x="Number of concurrent calls by Jmeter - thread count", y="Elapsed time (ms)") + 
-opts(title = "Number of concurrent calls by Jmeter (thread count) vs Time taken for each response", legend.position ="right");
-ggsave( filename="ThreadCountVsResponseTime.png", scale=2);
+p + labs(x="Number of concurrent calls by Jmeter - thread count", y="Elapsed time (ms)") + scale_fill_discrete(name="Opearion") + 
+opts(title = "Number of concurrent calls by Jmeter (thread count) vs Time taken (grouped for each response)", legend.position ="right");
+ggsave( filename="ThreadCountVsElapsedTimebyOperation.png", height=7.2, width=14.4);
+
+# Creating a box plot of Number of concurrent calls by Jmeter (thread count) vs time taken
+elapsed.median <- ddply(data.all, .(threadCount), summarise, val = median(elapsed))
+elapsed.mean <- ddply(data.all, .(threadCount), summarise, val = mean(elapsed))
+elapsed.min <- ddply(data.all, .(threadCount), summarise, val = min(elapsed))
+elapsed.max <- ddply(data.all, .(threadCount), summarise, val = max(elapsed))
+
+p <- ggplot(data=data.all, aes(factor(as.character(data.all$threadCount)), data.all$elapsed)) + geom_boxplot() + 
+geom_text(data = elapsed.median, aes(x = as.character(threadCount), y = val, label = sprintf("%d ms", val)), size = 3, vjust = -0.25) +
+geom_text(data = elapsed.min, aes(x = as.character(threadCount), y = val, label = sprintf("%d ms", val)), size = 3, hjust = -1.0, vjust=-0.4) +
+geom_text(data = elapsed.max, aes(x = as.character(threadCount), y = val, label = sprintf("%d ms", val)), size = 3, vjust = -0.7) +
+scale_y_log10(breaks=time.breaks, labels=time.labels, name="Elapsed time (ms)") + xlab("Threads") + 
+xlim(as.character(sort(thread.counts))) + xlab("Threads");
+
+p + labs(x="Number of concurrent calls by Jmeter - thread count", y="Elapsed time (ms)") +
+opts(title = "Number of concurrent calls by Jmeter (thread count) vs Time taken", legend.position ="right");
+
+ggsave( filename="ThreadCountVsElapsedTime.png", height=7.2, width=14.4);
 
 # Write the summary data
 out<-capture.output(summary(data.bin))
