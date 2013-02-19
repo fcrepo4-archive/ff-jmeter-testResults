@@ -1,0 +1,142 @@
+Information of system where tests were run
+Date: Mon Feb 18 23:31:47 GMT 2013
+Hostname: futures1.bodleian.ox.ac.uk 
+
+========================================
+CPU
+----------------------------------------
+processor	: 0
+vendor_id	: AuthenticAMD
+cpu family	: 16
+model		: 9
+model name	: AMD Opteron(tm) Processor 6168
+stepping	: 1
+microcode	: 0x10000c4
+cpu MHz		: 1900.000
+cache size	: 512 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 0
+initial apicid	: 0
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm 3dnowext 3dnow constant_tsc rep_good nopl tsc_reliable nonstop_tsc pni cx16 popcnt hypervisor lahf_lm extapic abm sse4a misalignsse 3dnowprefetch osvw
+bogomips	: 3800.00
+TLB size	: 1024 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: AuthenticAMD
+cpu family	: 16
+model		: 9
+model name	: AMD Opteron(tm) Processor 6168
+stepping	: 1
+microcode	: 0x10000c4
+cpu MHz		: 1900.000
+cache size	: 512 KB
+physical id	: 0
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 1
+initial apicid	: 1
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm 3dnowext 3dnow constant_tsc rep_good nopl tsc_reliable nonstop_tsc pni cx16 popcnt hypervisor lahf_lm extapic abm sse4a misalignsse 3dnowprefetch osvw
+bogomips	: 3800.00
+TLB size	: 1024 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+processor	: 2
+vendor_id	: AuthenticAMD
+cpu family	: 16
+model		: 9
+model name	: AMD Opteron(tm) Processor 6168
+stepping	: 1
+microcode	: 0x10000c4
+cpu MHz		: 1900.000
+cache size	: 512 KB
+physical id	: 1
+siblings	: 2
+core id		: 0
+cpu cores	: 2
+apicid		: 2
+initial apicid	: 2
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm 3dnowext 3dnow constant_tsc rep_good nopl tsc_reliable nonstop_tsc pni cx16 popcnt hypervisor lahf_lm extapic abm sse4a misalignsse 3dnowprefetch osvw
+bogomips	: 3800.00
+TLB size	: 1024 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+processor	: 3
+vendor_id	: AuthenticAMD
+cpu family	: 16
+model		: 9
+model name	: AMD Opteron(tm) Processor 6168
+stepping	: 1
+microcode	: 0x10000c4
+cpu MHz		: 1900.000
+cache size	: 512 KB
+physical id	: 1
+siblings	: 2
+core id		: 1
+cpu cores	: 2
+apicid		: 3
+initial apicid	: 3
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 5
+wp		: yes
+flags		: fpu vme de pse tsc msr pae mce cx8 apic sep mtrr pge mca cmov pat pse36 clflush mmx fxsr sse sse2 ht syscall nx mmxext fxsr_opt rdtscp lm 3dnowext 3dnow constant_tsc rep_good nopl tsc_reliable nonstop_tsc pni cx16 popcnt hypervisor lahf_lm extapic abm sse4a misalignsse 3dnowprefetch osvw
+bogomips	: 3800.00
+TLB size	: 1024 4K pages
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+
+========================================
+Memory
+----------------------------------------
+             total       used       free     shared    buffers     cached
+Mem:          3954       1692       2262          0        217       1075
+-/+ buffers/cache:        400       3554
+Swap:         1019          0       1019
+
+========================================
+OS
+----------------------------------------
+Linux 3.2.0-37-generic x86_64
+Linux futures1 3.2.0-37-generic #58-Ubuntu SMP Thu Jan 24 15:28:10 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Linux version 3.2.0-37-generic (buildd@allspice) (gcc version 4.6.3 (Ubuntu/Linaro 4.6.3-1ubuntu5) ) #58-Ubuntu SMP Thu Jan 24 15:28:10 UTC 2013
+
+========================================
+Hard disk
+----------------------------------------
+Filesystem                Size  Used Avail Use% Mounted on
+/dev/mapper/futures-root   95G  4.9G   85G   6% /
+udev                      2.0G   12K  2.0G   1% /dev
+tmpfs                     791M  272K  791M   1% /run
+none                      5.0M     0  5.0M   0% /run/lock
+none                      2.0G     0  2.0G   0% /run/shm
+cgroup                    2.0G     0  2.0G   0% /sys/fs/cgroup
+/dev/sda1                 228M   95M  122M  44% /boot

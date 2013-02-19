@@ -1,0 +1,32 @@
+   timeStamp           elapsed         label           responseCode      
+ Min.   :1.36e+12   Min.   :    0   Length:314504      Length:314504     
+ 1st Qu.:1.36e+12   1st Qu.:   49   Class :character   Class :character  
+ Median :1.36e+12   Median :  160   Mode  :character   Mode  :character  
+ Mean   :1.36e+12   Mean   : 1079                                        
+ 3rd Qu.:1.36e+12   3rd Qu.: 1059                                        
+ Max.   :1.36e+12   Max.   :27772                                        
+                                                                         
+                                                              responseMessage  
+ Created                                                              :141039  
+ OK                                                                   :168073  
+ Non HTTP response message: Connection reset                          :     2  
+ Not Found                                                            :  1198  
+ Internal Server Error                                                :   859  
+ Non HTTP response message: Connection to http://futures6:8080 refused:  3333  
+ Non HTTP response message: The target server failed to respond       :     0  
+  threadName        dataType       success           bytes        
+ Length:314504      text:313645   true :309112   Min.   :    182  
+ Class :character       :   859   false:  5392   1st Qu.:    403  
+ Mode  :character                                Median :   7437  
+                                                 Mean   : 142385  
+                                                 3rd Qu.: 100424  
+                                                 Max.   :1434909  
+                                                                  
+    Latency      threadCount          fileSize        
+ Min.   :    0   Length:314504      Length:314504     
+ 1st Qu.:   45   Class :character   Class :character  
+ Median :  145   Mode  :character   Mode  :character  
+ Mean   : 1056                                        
+ 3rd Qu.: 1011                                        
+ Max.   :27772                                        
+                                                      
