@@ -49,10 +49,11 @@ About the test
 
 Analysing the test results
 -----------------------
- * The stats visualizations were done using R (http://www.r-project.org/). 
- * The code used to produce the graphs is in [fedora-jmx.r](/2013-02-10-FedoraTests/fedora-jmx.r).
- * To execute the code, from within R
- > source('/path/to/the/file/fedora-jmx.r')
-   * The program will ask you to choose the directory which contains the test results (csv format)
-   * It will run through all the files, gather the data and produce 3 graphs and a summary of the data. These will be saved in your current working directory.
+The stats visualizations were done using R (http://www.r-project.org/). 
+
+The code used to produce the graphs is in [fedora-jmx.r](/2013-02-10-FedoraTests/fedora-jmx.r).
+ * To execute the code, from within R, type  
+    > source('/path/to/the/file/fedora-jmx.r')
+ * The program will ask you to choose the directory which contains the test results (csv format)
+ * It will run through all the files, gather the data and produce 3 graphs and a summary of the data. These will be saved in your current working directory.
 
