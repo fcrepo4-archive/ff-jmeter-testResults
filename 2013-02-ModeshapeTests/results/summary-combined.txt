@@ -5,17 +5,17 @@
  Mean   :1.36e+12   Mean   : 1020.0                      Mean   :200.9  
  3rd Qu.:1.36e+12   3rd Qu.:  798.2                      3rd Qu.:201.0  
  Max.   :1.36e+12   Max.   :20119.0                      Max.   :404.0  
-   responseMessage           threadName   dataType     success    
- Created   :3000   Threadgroup 1-1:2000       :   0   false:  12  
- No Content:   0   Threadgroup 1-2:1000   text:6000   true :5988  
- Not Found :  12   Threadgroup 1-3:1000                           
- OK        :2988   Threadgroup 1-4:1000                           
-                   Threadgroup 1-5:1000                           
-                                                                  
-     bytes             Latency       
- Min.   :     157   Min.   :    6.0  
- 1st Qu.:    7855   1st Qu.:   37.0  
- Median :  103270   Median :  324.0  
- Mean   : 1879000   Mean   :  868.0  
- 3rd Qu.: 1111482   3rd Qu.:  709.5  
- Max.   :10653678   Max.   :20119.0  
+   responseMessage  threadName        dataType     success    
+ Created   :3000   Length:6000        text:6000   false:  12  
+ Not Found :  12   Class :character       :   0   true :5988  
+ OK        :2988   Mode  :character                           
+ No Content:   0                                              
+                                                              
+                                                              
+     bytes             Latency        threadCount          fileSize        
+ Min.   :     157   Min.   :    6.0   Length:6000        Length:6000       
+ 1st Qu.:    7855   1st Qu.:   37.0   Class :character   Class :character  
+ Median :  103270   Median :  324.0   Mode  :character   Mode  :character  
+ Mean   : 1879000   Mean   :  868.0                                        
+ 3rd Qu.: 1111482   3rd Qu.:  709.5                                        
+ Max.   :10653678   Max.   :20119.0                                        
