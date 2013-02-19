@@ -9,12 +9,12 @@ The file [systemInfo.txt](/2013-02-ModeshapeTests/systemInfo.txt/) contains info
 
 Test results
 -----------------------
-The results of the test run are in the [log](/2013-02-ModeshapeTests/run1/log/) directory  
+The results of the test run are in the [log](/2013-02-ModeshapeTests/log/) directory  
 
-The various plots analyzing the test reults are in the [results](/2013-02-ModeshapeTests/run1/results/) directory  
- * [StatusOfResponse.png](/2013-02-ModeshapeTests/run1/results/StatusOfResponse.png) shows a stacked bar chart with the count of the different response codes received for an operation, grouped for each thread count
- * [ThreadCountVsElapsedTime.png](/2013-02-ModeshapeTests/run1/results/ThreadCountVsElapsedTime.png) shows a box plot of time taken to complete each response for each thread count
- * [ThreadCountVsElapsedTimebyOperation.png](/2013-02-ModeshapeTests/run1/results/ThreadCountVsElapsedTimebyOperation.png) shows a box plot of time taken to complete each response for each thread count, grouped by type of operation
+The various plots analyzing the test reults are in the [results](/2013-02-ModeshapeTests/results/) directory  
+ * [StatusOfResponse.png](/2013-02-ModeshapeTests/results/StatusOfResponse.png) shows a stacked bar chart with the count of the different response codes received for an operation, grouped for each thread count
+ * [ThreadCountVsElapsedTime.png](/2013-02-ModeshapeTests/results/ThreadCountVsElapsedTime.png) shows a box plot of time taken to complete each response for each thread count
+ * [ThreadCountVsElapsedTimebyOperation.png](/2013-02-ModeshapeTests/results/ThreadCountVsElapsedTimebyOperation.png) shows a box plot of time taken to complete each response for each thread count, grouped by type of operation
    * [What is a box plot?](http://en.wikipedia.org/wiki/Box_plot)
 
 
