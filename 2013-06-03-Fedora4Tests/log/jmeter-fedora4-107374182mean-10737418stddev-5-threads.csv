@@ -1,0 +1,16 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,Latency
+1370302084115,320,Create Object,201,Created,Fedora 4 1-1,text,true,216,320
+1370302084310,495,Create Object,201,Created,Fedora 4 1-2,text,true,216,495
+1370302084452,607,Create Datastream Path,201,Created,Fedora 4 1-1,text,true,240,607
+1370302084512,805,Create Object,201,Created,Fedora 4 1-3,text,true,216,805
+1370302084821,736,Create Datastream Path,201,Created,Fedora 4 1-2,text,true,240,736
+1370302084711,1113,Create Object,201,Created,Fedora 4 1-4,text,true,216,1113
+1370302085328,711,Create Datastream Path,201,Created,Fedora 4 1-3,text,true,240,710
+1370302084917,1417,Create Object,201,Created,Fedora 4 1-5,text,true,216,1417
+1370302085832,736,Create Datastream Path,201,Created,Fedora 4 1-4,text,true,240,736
+1370302086344,432,Create Datastream Path,201,Created,Fedora 4 1-5,text,true,240,432
+1370302086050,351196,Create Datastream,201,Created,Fedora 4 1-3,,true,183,351196
+1370302086579,459218,Create Datastream,201,Created,Fedora 4 1-4,,true,183,459218
+1370302086781,488672,Create Datastream,201,Created,Fedora 4 1-5,,true,183,488672
+1370302085569,494100,Create Datastream,201,Created,Fedora 4 1-2,,true,183,494100
+1370302085070,497706,Create Datastream,201,Created,Fedora 4 1-1,,true,183,497706

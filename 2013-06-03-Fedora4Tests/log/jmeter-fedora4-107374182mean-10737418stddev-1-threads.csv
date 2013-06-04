@@ -1,0 +1,4 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,Latency
+1370299119849,354,Create Object,201,Created,Fedora 4 1-1,text,true,216,354
+1370299120230,447,Create Datastream Path,201,Created,Fedora 4 1-1,text,true,240,447
+1370299120687,100340,Create Datastream,201,Created,Fedora 4 1-1,,true,183,100340

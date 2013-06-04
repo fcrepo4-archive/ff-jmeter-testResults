@@ -1,0 +1,217 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,Latency
+1370313233493,357,Create Object,201,Created,Fedora 4 1-1,text,true,216,357
+1370313233504,630,Create Object,201,Created,Fedora 4 1-2,text,true,216,630
+1370313233858,524,Create Datastream Path,201,Created,Fedora 4 1-1,text,true,240,524
+1370313233531,1127,Create Object,201,Created,Fedora 4 1-3,text,true,216,1127
+1370313233631,1318,Create Object,201,Created,Fedora 4 1-6,text,true,216,1318
+1370313234150,1367,Create Datastream Path,201,Created,Fedora 4 1-2,text,true,240,1367
+1370313234664,1280,Create Datastream Path,201,Created,Fedora 4 1-3,text,true,240,1279
+1370313234956,1652,Create Datastream Path,201,Created,Fedora 4 1-6,text,true,240,1651
+1370313233823,3586,Create Object,201,Created,Fedora 4 1-13,text,true,218,3586
+1370313234259,4418,Create Object,201,Created,Fedora 4 1-28,text,true,218,4418
+1370313234389,5770,Create Datastream,201,Created,Fedora 4 1-1,,true,183,5770
+1370313238683,1499,Create Datastream Path,201,Created,Fedora 4 1-28,text,true,242,1499
+1370313237416,3235,Create Datastream Path,201,Created,Fedora 4 1-13,text,true,242,3235
+1370313235523,6188,Create Datastream,201,Created,Fedora 4 1-2,,true,183,6188
+1370313235951,7093,Create Datastream,201,Created,Fedora 4 1-3,,true,183,7093
+1370313240175,5116,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313236614,8814,Create Datastream,201,Created,Fedora 4 1-6,,true,183,8814
+1370313234580,12013,Create Object,201,Created,Fedora 4 1-40,text,true,218,11957
+1370313234305,14034,Create Object,201,Created,Fedora 4 1-30,text,true,218,14034
+1370313246600,1797,Create Datastream Path,201,Created,Fedora 4 1-40,text,true,242,1796
+1370313241725,7035,Update Datastream,204,No Content,Fedora 4 1-2,,true,91,0
+1370313240662,8899,Create Datastream,201,Created,Fedora 4 1-13,,true,184,8899
+1370313243056,6514,Update Datastream,204,No Content,Fedora 4 1-3,,true,91,0
+1370313248346,1227,Create Datastream Path,201,Created,Fedora 4 1-30,text,true,242,1227
+1370313245305,4589,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313245444,4490,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313234225,16528,Create Object,201,Created,Fedora 4 1-27,text,true,218,16528
+1370313240186,11874,Create Datastream,201,Created,Fedora 4 1-28,,true,184,11874
+1370313248774,4069,Update Datastream,204,No Content,Fedora 4 1-2,,true,91,0
+1370313234198,19362,Create Object,201,Created,Fedora 4 1-26,text,true,218,19362
+1370313250757,3679,Create Datastream Path,201,Created,Fedora 4 1-27,text,true,242,3678
+1370313249581,5384,Update Datastream,204,No Content,Fedora 4 1-13,,true,91,0
+1370313234361,21578,Create Object,201,Created,Fedora 4 1-32,text,true,218,21578
+1370313249965,6004,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313249584,6457,Update Datastream,204,No Content,Fedora 4 1-3,,true,91,0
+1370313249904,6516,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313252074,4895,Update Datastream,204,No Content,Fedora 4 1-28,,true,91,0
+1370313234060,22998,Create Object,201,Created,Fedora 4 1-21,text,true,218,22998
+1370313252855,5435,Update Datastream,204,No Content,Fedora 4 1-2,,true,91,0
+1370313234555,24002,Create Object,201,Created,Fedora 4 1-39,text,true,218,24002
+1370313253566,8850,Create Datastream Path,201,Created,Fedora 4 1-26,text,true,242,8850
+1370313255977,7104,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313256456,6489,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313254976,7443,Update Datastream,204,No Content,Fedora 4 1-13,,true,91,0
+1370313256977,6545,Update Datastream,204,No Content,Fedora 4 1-28,,true,91,0
+1370313233802,29722,Create Object,201,Created,Fedora 4 1-12,text,true,218,29721
+1370313256096,8515,Update Datastream,204,No Content,Fedora 4 1-3,,true,91,0
+1370313233741,30866,Create Object,201,Created,Fedora 4 1-10,text,true,218,30866
+1370313258304,6302,Update Datastream,204,No Content,Fedora 4 1-2,,true,91,0
+1370313258561,6263,Create Datastream Path,201,Created,Fedora 4 1-39,text,true,242,6263
+1370313248403,18465,Create Datastream,201,Created,Fedora 4 1-40,,true,184,18465
+1370313255945,12430,Create Datastream Path,201,Created,Fedora 4 1-32,text,true,242,12430
+1370313249575,21148,Create Datastream,201,Created,Fedora 4 1-30,,true,184,21148
+1370313254442,19475,Create Datastream,201,Created,Fedora 4 1-27,,true,184,19475
+1370313263115,11607,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313263594,11289,Update Datastream,204,No Content,Fedora 4 1-28,,true,91,0
+1370313257192,18366,Create Datastream Path,201,Created,Fedora 4 1-21,text,true,242,18366
+1370313263126,13016,Update Datastream,204,No Content,Fedora 4 1-13,,true,91,0
+1370313263112,13624,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313264665,12488,Update Datastream,204,No Content,Fedora 4 1-2,,true,91,0
+1370313264628,12869,Update Datastream,204,No Content,Fedora 4 1-3,,true,91,0
+1370313266882,11516,Update Datastream,204,No Content,Fedora 4 1-40,,true,91,0
+1370313263107,15372,Create Datastream,201,Created,Fedora 4 1-26,,true,184,15372
+1370313270735,8481,Update Datastream,204,No Content,Fedora 4 1-30,,true,91,0
+1370313273933,5735,Update Datastream,204,No Content,Fedora 4 1-27,,true,91,0
+1370313233769,47447,Create Object,201,Created,Fedora 4 1-11,text,true,218,47439
+1370313274897,6486,Update Datastream,204,No Content,Fedora 4 1-28,,true,91,0
+1370313276155,5525,Update Datastream,204,No Content,Fedora 4 1-13,,true,91,0
+1370313234468,48279,Create Object,201,Created,Fedora 4 1-36,text,true,218,48279
+1370313276747,6048,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313282753,1739,Create Datastream Path,201,Created,Fedora 4 1-36,text,true,242,1739
+1370313277506,7774,Update Datastream,204,No Content,Fedora 4 1-3,,true,91,0
+1370313264831,21028,Create Datastream,201,Created,Fedora 4 1-39,,true,184,21028
+1370313279232,6646,Update Datastream,204,No Content,Fedora 4 1-30,,true,91,0
+1370313278413,8212,Update Datastream,204,No Content,Fedora 4 1-40,,true,91,0
+1370313278675,8158,Update Datastream,204,No Content,Fedora 4 1-26,,true,91,0
+1370313279682,7553,Update Datastream,204,No Content,Fedora 4 1-27,,true,91,0
+1370313275567,11974,Create Datastream,201,Created,Fedora 4 1-21,,true,184,11974
+1370313281694,5909,Update Datastream,204,No Content,Fedora 4 1-13,,true,91,0
+1370313281394,6400,Update Datastream,204,No Content,Fedora 4 1-28,,true,91,0
+1370313264619,23946,Create Datastream Path,201,Created,Fedora 4 1-10,text,true,242,23946
+1370313263588,26337,Create Datastream Path,201,Created,Fedora 4 1-12,text,true,242,26337
+1370313285287,6710,Create Datastream,201,Created,Fedora 4 1-3,,true,183,6710
+1370313285935,6917,Update Datastream,204,No Content,Fedora 4 1-30,,true,91,0
+1370313285874,7134,Update Datastream,204,No Content,Fedora 4 1-39,,true,91,0
+1370313287248,6672,Update Datastream,204,No Content,Fedora 4 1-27,,true,91,0
+1370313281219,12728,Create Datastream Path,201,Created,Fedora 4 1-11,text,true,242,12728
+1370313234278,60513,Create Object,201,Created,Fedora 4 1-29,text,true,218,60513
+1370313233593,61198,Create Object,201,Created,Fedora 4 1-5,text,true,216,61198
+1370313234502,60292,Create Object,201,Created,Fedora 4 1-37,text,true,218,60291
+1370313234030,60767,Create Object,201,Created,Fedora 4 1-20,text,true,218,60766
+1370313234395,60406,Create Object,201,Created,Fedora 4 1-33,text,true,218,60406
+1370313234090,60711,Create Object,201,Created,Fedora 4 1-22,text,true,218,60711
+1370313233973,60831,Create Object,201,Created,Fedora 4 1-18,text,true,218,60831
+1370313233934,60870,Create Object,201,Created,Fedora 4 1-17,text,true,218,60870
+1370313234179,60627,Create Object,201,Created,Fedora 4 1-25,text,true,218,60627
+1370313233653,61154,Create Object,201,Created,Fedora 4 1-7,text,true,216,61154
+1370313234332,60478,Create Object,201,Created,Fedora 4 1-31,text,true,218,60478
+1370313233856,60955,Create Object,201,Created,Fedora 4 1-14,text,true,218,60955
+1370313234123,60692,Create Object,201,Created,Fedora 4 1-23,text,true,218,60692
+1370313234144,60672,Create Object,201,Created,Fedora 4 1-24,text,true,218,60660
+1370313234525,60356,Create Object,201,Created,Fedora 4 1-38,text,true,218,60356
+1370313233876,61007,Create Object,201,Created,Fedora 4 1-15,text,true,218,61007
+1370313234442,60446,Create Object,201,Created,Fedora 4 1-35,text,true,218,60446
+1370313233562,61328,Create Object,201,Created,Fedora 4 1-4,text,true,216,61328
+1370313233682,61213,Create Object,201,Created,Fedora 4 1-8,text,true,216,61213
+1370313233712,61185,Create Object,201,Created,Fedora 4 1-9,text,true,216,61185
+1370313234003,60897,Create Object,201,Created,Fedora 4 1-19,text,true,218,60897
+1370313282801,12165,Create Datastream,201,Created,Fedora 4 1-6,,true,183,12165
+1370313286639,8617,Update Datastream,204,No Content,Fedora 4 1-40,,true,91,0
+1370313286844,8865,Update Datastream,204,No Content,Fedora 4 1-26,,true,91,0
+1370313234414,61570,Create Object,201,Created,Fedora 4 1-34,text,true,218,61382
+1370313287555,9085,Update Datastream,204,No Content,Fedora 4 1-21,,true,91,0
+1370313288569,8241,Create Datastream,201,Created,Fedora 4 1-10,,true,184,8241
+1370313233908,65060,Create Object,201,Created,Fedora 4 1-16,text,true,218,65060
+1370313292013,7631,Update Datastream,204,No Content,Fedora 4 1-3,,true,91,0
+1370313293023,7383,Update Datastream,204,No Content,Fedora 4 1-39,,true,91,0
+1370313294812,7475,Create Datastream Path,201,Created,Fedora 4 1-31,text,true,242,7475
+1370313293934,8416,Update Datastream,204,No Content,Fedora 4 1-27,,true,91,0
+1370313292865,9678,Update Datastream,204,No Content,Fedora 4 1-30,,true,91,0
+1370313298974,3568,Create Datastream Path,201,Created,Fedora 4 1-16,text,true,242,3568
+1370313295038,7954,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313295265,7727,Update Datastream,204,No Content,Fedora 4 1-40,,true,91,0
+1370313295718,8114,Update Datastream,204,No Content,Fedora 4 1-26,,true,91,0
+1370313287799,16036,Create Datastream,201,Created,Fedora 4 1-28,,true,184,16036
+1370313296653,7484,Update Datastream,204,No Content,Fedora 4 1-21,,true,91,0
+1370313296818,7491,Update Datastream,204,No Content,Fedora 4 1-10,,true,91,0
+1370313299654,4904,Update Datastream,204,No Content,Fedora 4 1-3,,true,91,0
+1370313277162,27397,Create Datastream,201,Created,Fedora 4 1-2,,true,183,27397
+1370313300421,4339,Update Datastream,204,No Content,Fedora 4 1-39,,true,91,0
+1370313284500,20787,Create Datastream,201,Created,Fedora 4 1-36,,true,184,20787
+1370313289930,22323,Create Datastream,201,Created,Fedora 4 1-12,,true,184,22323
+1370313287608,24649,Create Datastream,201,Created,Fedora 4 1-13,,true,184,24649
+1370313294897,17360,Create Datastream Path,201,Created,Fedora 4 1-8,text,true,240,17359
+1370313294818,17454,Create Datastream Path,201,Created,Fedora 4 1-5,text,true,240,17453
+1370313294902,17369,Create Datastream Path,201,Created,Fedora 4 1-19,text,true,242,17369
+1370313294829,17444,Create Datastream Path,201,Created,Fedora 4 1-22,text,true,242,17444
+1370313302294,10140,Create Datastream,201,Created,Fedora 4 1-31,,true,184,10140
+1370313302551,9884,Update Datastream,204,No Content,Fedora 4 1-30,,true,91,0
+1370313294821,17620,Create Datastream Path,201,Created,Fedora 4 1-37,text,true,242,17620
+1370313302547,9895,Create Datastream,201,Created,Fedora 4 1-16,,true,184,9895
+1370313274729,37717,Create Datastream,201,Created,Fedora 4 1-1,,true,183,37717
+1370313268386,44095,Create Datastream,201,Created,Fedora 4 1-32,,true,184,44095
+1370313294818,17664,Create Datastream Path,201,Created,Fedora 4 1-24,text,true,242,17456
+1370313294126,18357,Create Datastream,201,Created,Fedora 4 1-11,,true,184,18357
+1370313294815,17669,Create Datastream Path,201,Created,Fedora 4 1-18,text,true,242,17669
+1370313294824,17663,Create Datastream Path,201,Created,Fedora 4 1-20,text,true,242,17663
+1370313294824,17664,Create Datastream Path,201,Created,Fedora 4 1-17,text,true,242,17664
+1370313294893,18103,Create Datastream Path,201,Created,Fedora 4 1-4,text,true,240,18103
+1370313294808,19836,Create Datastream Path,201,Created,Fedora 4 1-25,text,true,242,19836
+1370313294892,25986,Create Datastream Path,201,Created,Fedora 4 1-35,text,true,242,25986
+1370313303005,21196,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313302363,27654,Update Datastream,204,No Content,Fedora 4 1-27,,true,91,0
+1370313294797,35604,Create Datastream Path,201,Created,Fedora 4 1-29,text,true,242,35604
+1370313303010,27591,Update Datastream,204,No Content,Fedora 4 1-40,,true,91,0
+1370313304008,30157,Update Datastream,204,No Content,Fedora 4 1-28,,true,91,0
+1370313304008,30729,Update Datastream,204,No Content,Fedora 4 1-26,,true,91,0
+1370313304312,32903,Update Datastream,204,No Content,Fedora 4 1-21,,true,91,0
+1370313294886,44248,Create Datastream Path,201,Created,Fedora 4 1-38,text,true,242,44248
+1370313305171,34666,Update Datastream,204,No Content,Fedora 4 1-39,,true,91,0
+1370313305337,35428,Update Datastream,204,No Content,Fedora 4 1-36,,true,91,0
+1370313313004,28111,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313313718,27779,Update Datastream,204,No Content,Fedora 4 1-31,,true,91,0
+1370313312778,29922,Update Datastream,204,No Content,Fedora 4 1-13,,true,91,0
+1370313313957,29095,Update Datastream,204,No Content,Fedora 4 1-16,,true,91,0
+1370313312508,31497,Update Datastream,204,No Content,Fedora 4 1-12,,true,91,0
+1370313312500,32686,Create Datastream,201,Created,Fedora 4 1-19,,true,184,32685
+1370313312496,32724,Create Datastream,201,Created,Fedora 4 1-8,,true,183,32724
+1370313324216,21331,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313334181,12496,Update Datastream,204,No Content,Fedora 4 1-28,,true,91,0
+1370313294809,51869,Create Datastream Path,201,Created,Fedora 4 1-7,text,true,240,51869
+1370313337231,10072,Update Datastream,204,No Content,Fedora 4 1-21,,true,91,0
+1370313334752,13162,Update Datastream,204,No Content,Fedora 4 1-26,,true,91,0
+1370313339854,8171,Update Datastream,204,No Content,Fedora 4 1-39,,true,91,0
+1370313313715,35850,Create Datastream,201,Created,Fedora 4 1-17,,true,184,35850
+1370313341131,8598,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313294824,56250,Create Datastream Path,201,Created,Fedora 4 1-33,text,true,242,56249
+1370313341512,9679,Update Datastream,204,No Content,Fedora 4 1-31,,true,91,0
+1370313340781,12468,Update Datastream,204,No Content,Fedora 4 1-36,,true,91,0
+1370313344024,11727,Update Datastream,204,No Content,Fedora 4 1-12,,true,91,0
+1370313330608,25351,Create Datastream,201,Created,Fedora 4 1-40,,true,184,25351
+1370313294899,61176,Create Datastream Path,201,Created,Fedora 4 1-9,text,true,240,61176
+1370313294821,61255,Create Datastream Path,201,Created,Fedora 4 1-23,text,true,242,61255
+1370313294894,61186,Create Datastream Path,201,Created,Fedora 4 1-15,text,true,242,61186
+1370313295988,61083,Create Datastream Path,201,Created,Fedora 4 1-34,text,true,242,61083
+1370313356084,1338,Create Datastream,500,Internal Server Error,Fedora 4 1-9,text,false,4119,1338
+1370313357079,378,Create Datastream,500,Internal Server Error,Fedora 4 1-34,text,false,4120,378
+1370313356081,1381,Create Datastream,500,Internal Server Error,Fedora 4 1-23,text,false,4120,1381
+1370313356085,1380,Create Datastream,500,Internal Server Error,Fedora 4 1-15,text,false,4120,1380
+1370313345730,12066,Update Datastream,204,No Content,Fedora 4 1-6,,true,91,0
+1370313347919,10208,Create Datastream,201,Created,Fedora 4 1-26,,true,184,10208
+1370313345209,13892,Update Datastream,204,No Content,Fedora 4 1-19,,true,91,0
+1370313348030,11491,Create Datastream,201,Created,Fedora 4 1-39,,true,184,11491
+1370313349742,9848,Update Datastream,204,No Content,Fedora 4 1-1,,true,91,0
+1370313347320,13991,Update Datastream,204,No Content,Fedora 4 1-21,,true,91,0
+1370313349582,11780,Update Datastream,204,No Content,Fedora 4 1-17,,true,91,0
+1370313351205,10227,Update Datastream,204,No Content,Fedora 4 1-31,,true,91,0
+1370313355764,5887,Update Datastream,204,No Content,Fedora 4 1-12,,true,91,0
+1370313330409,31274,Create Datastream,201,Created,Fedora 4 1-29,,true,184,31274
+1370313353264,8525,Update Datastream,204,No Content,Fedora 4 1-36,,true,91,0
+1370313355977,5963,Update Datastream,204,No Content,Fedora 4 1-40,,true,91,0
+1370313346692,15797,Create Datastream,201,Created,Fedora 4 1-7,,true,183,15797
+1370313330025,32901,Create Datastream,201,Created,Fedora 4 1-27,,true,184,32901
+1370313312504,51437,Create Datastream,201,Created,Fedora 4 1-5,,true,183,51437
+1370313312498,52604,Create Datastream,201,Created,Fedora 4 1-18,,true,184,52604
+1370313312502,53001,Create Datastream,201,Created,Fedora 4 1-22,,true,184,53001
+1370313351081,14886,Create Datastream,201,Created,Fedora 4 1-33,,true,184,14886
+1370313312497,53873,Create Datastream,201,Created,Fedora 4 1-37,,true,184,53873
+1370313312842,53810,Create Datastream,201,Created,Fedora 4 1-20,,true,184,53810
+1370313312504,54793,Create Datastream,201,Created,Fedora 4 1-30,,true,184,54793
+1370313313716,53985,Create Datastream,201,Created,Fedora 4 1-4,,true,183,53985
+1370313294813,73377,Create Datastream Path,201,Created,Fedora 4 1-14,text,true,242,73377
+1370313312498,56264,Create Datastream,201,Created,Fedora 4 1-24,,true,184,56264
+1370313320888,48404,Create Datastream,201,Created,Fedora 4 1-35,,true,184,48404
+1370313339140,30572,Create Datastream,201,Created,Fedora 4 1-38,,true,184,30572
+1370313314778,55232,Create Datastream,201,Created,Fedora 4 1-25,,true,184,55232

@@ -1,0 +1,31 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,bytes,Latency
+1370305756846,314,Create Object,201,Created,Fedora 4 1-1,text,true,216,313
+1370305756942,575,Create Object,201,Created,Fedora 4 1-2,text,true,216,574
+1370305757173,735,Create Datastream Path,201,Created,Fedora 4 1-1,text,true,240,735
+1370305757052,1138,Create Object,201,Created,Fedora 4 1-3,text,true,216,1138
+1370305757531,906,Create Datastream Path,201,Created,Fedora 4 1-2,text,true,240,906
+1370305757162,1569,Create Object,201,Created,Fedora 4 1-4,text,true,216,1569
+1370305758202,771,Create Datastream Path,201,Created,Fedora 4 1-3,text,true,240,770
+1370305757691,1506,Create Object,201,Created,Fedora 4 1-9,text,true,216,1506
+1370305758744,675,Create Datastream Path,201,Created,Fedora 4 1-4,text,true,240,675
+1370305757271,2332,Create Object,201,Created,Fedora 4 1-5,text,true,216,2332
+1370305759212,640,Create Datastream Path,201,Created,Fedora 4 1-9,text,true,240,640
+1370305757583,2534,Create Object,201,Created,Fedora 4 1-8,text,true,216,2534
+1370305759613,705,Create Datastream Path,201,Created,Fedora 4 1-5,text,true,240,705
+1370305757382,3194,Create Object,201,Created,Fedora 4 1-6,text,true,216,3194
+1370305760123,652,Create Datastream Path,201,Created,Fedora 4 1-8,text,true,240,652
+1370305760581,273,Create Datastream Path,201,Created,Fedora 4 1-6,text,true,240,273
+1370305757792,3233,Create Object,201,Created,Fedora 4 1-10,text,true,218,3233
+1370305757474,3749,Create Object,201,Created,Fedora 4 1-7,text,true,216,3749
+1370305761032,516,Create Datastream Path,201,Created,Fedora 4 1-10,text,true,242,516
+1370305761227,11663,Create Datastream Path,201,Created,Fedora 4 1-7,text,true,240,11663
+1370305760780,384363,Create Datastream,201,Created,Fedora 4 1-8,,true,183,384363
+1370305759863,389096,Create Datastream,201,Created,Fedora 4 1-9,,true,183,389096
+1370305772899,667643,Create Datastream,201,Created,Fedora 4 1-7,,true,183,667642
+1370305757922,748748,Create Datastream,201,Created,Fedora 4 1-1,,true,183,748748
+1370305758983,758672,Create Datastream,201,Created,Fedora 4 1-3,,true,183,758671
+1370305759433,1003981,Create Datastream,201,Created,Fedora 4 1-4,,true,183,1003981
+1370305760323,1015276,Create Datastream,201,Created,Fedora 4 1-5,,true,183,1015276
+1370305760860,1042396,Create Datastream,201,Created,Fedora 4 1-6,,true,183,1042396
+1370305761557,1051045,Create Datastream,201,Created,Fedora 4 1-10,,true,184,1051045
+1370305758445,1054473,Create Datastream,201,Created,Fedora 4 1-2,,true,183,1054473
