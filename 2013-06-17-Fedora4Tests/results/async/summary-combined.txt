@@ -1,0 +1,21 @@
+   timeStamp            elapsed           label            responseCode  
+ Min.   :1.372e+12   Min.   :   8.00   Length:120         Min.   :200.0  
+ 1st Qu.:1.372e+12   1st Qu.:  13.75   Class :character   1st Qu.:200.0  
+ Median :1.372e+12   Median : 409.50   Mode  :character   Median :200.5  
+ Mean   :1.372e+12   Mean   : 485.07                      Mean   :200.5  
+ 3rd Qu.:1.372e+12   3rd Qu.: 711.25                      3rd Qu.:201.0  
+ Max.   :1.372e+12   Max.   :2572.00                      Max.   :201.0  
+   responseMessage  threadName        dataType  success        bytes        
+ Created   :60     Length:120             :60   true:120   Min.   :    305  
+ No Content: 0     Class :character   text:60              1st Qu.:   1430  
+ OK        :60     Mode  :character                        Median :  57811  
+                                                           Mean   :1735205  
+                                                           3rd Qu.:1132227  
+                                                           Max.   :9857031  
+    Latency       threadCount          fileSize        
+ Min.   :   8.0   Length:120         Length:120        
+ 1st Qu.:  10.0   Class :character   Class :character  
+ Median : 295.5   Mode  :character   Mode  :character  
+ Mean   : 472.2                                        
+ 3rd Qu.: 711.2                                        
+ Max.   :2572.0                                        

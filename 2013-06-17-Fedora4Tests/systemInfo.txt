@@ -1,0 +1,87 @@
+Information of system where tests were run
+Date: Tue Jun 18 21:33:08 CEST 2013
+Hostname: ip-10-68-29-67.ec2.internal 
+
+========================================
+CPU
+----------------------------------------
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 44
+model name	: Intel(R) Xeon(R) CPU           E5645  @ 2.40GHz
+stepping	: 2
+microcode	: 0x10
+cpu MHz		: 2000.070
+cache size	: 12288 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 18
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 11
+wp		: yes
+flags		: fpu de tsc msr pae cx8 sep cmov pat clflush mmx fxsr sse sse2 ss ht syscall nx lm constant_tsc rep_good nopl nonstop_tsc pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 popcnt aes hypervisor lahf_lm
+bogomips	: 4000.14
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 44
+model name	: Intel(R) Xeon(R) CPU           E5645  @ 2.40GHz
+stepping	: 2
+microcode	: 0x10
+cpu MHz		: 2000.070
+cache size	: 12288 KB
+physical id	: 0
+siblings	: 2
+core id		: 0
+cpu cores	: 1
+apicid		: 0
+initial apicid	: 18
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 11
+wp		: yes
+flags		: fpu de tsc msr pae cx8 sep cmov pat clflush mmx fxsr sse sse2 ss ht syscall nx lm constant_tsc rep_good nopl nonstop_tsc pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 popcnt aes hypervisor lahf_lm
+bogomips	: 4000.14
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 40 bits physical, 48 bits virtual
+power management:
+
+
+========================================
+Memory
+----------------------------------------
+             total       used       free     shared    buffers     cached
+Mem:          7514        590       6924          0         13        429
+-/+ buffers/cache:        146       7368
+Swap:            0          0          0
+
+========================================
+OS
+----------------------------------------
+Linux 3.8.0-23-generic x86_64
+Linux ip-10-68-29-67 3.8.0-23-generic #34-Ubuntu SMP Wed May 29 20:22:58 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Linux version 3.8.0-23-generic (buildd@batsu) (gcc version 4.7.3 (Ubuntu/Linaro 4.7.3-1ubuntu1) ) #34-Ubuntu SMP Wed May 29 20:22:58 UTC 2013
+
+========================================
+Hard disk
+----------------------------------------
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1      9.8G  970M  8.3G  11% /
+none            4.0K     0  4.0K   0% /sys/fs/cgroup
+udev            3.7G   12K  3.7G   1% /dev
+tmpfs           752M  188K  752M   1% /run
+none            5.0M     0  5.0M   0% /run/lock
+none            3.7G     0  3.7G   0% /run/shm
+none            100M     0  100M   0% /run/user
+/dev/xvdb       414G  199M  393G   1% /mnt
