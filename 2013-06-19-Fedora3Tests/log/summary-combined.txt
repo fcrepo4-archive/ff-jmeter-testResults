@@ -1,0 +1,21 @@
+   timeStamp      elapsed       label            responseCode
+ Min.   : NA   Min.   : NA   Length:0           Min.   : NA  
+ 1st Qu.: NA   1st Qu.: NA   Class :character   1st Qu.: NA  
+ Median : NA   Median : NA   Mode  :character   Median : NA  
+ Mean   :NaN   Mean   :NaN                      Mean   :NaN  
+ 3rd Qu.: NA   3rd Qu.: NA                      3rd Qu.: NA  
+ Max.   : NA   Max.   : NA                      Max.   : NA  
+              responseMessage  threadName        dataType  success 
+ Created              :0      Length:0               :0   false:0  
+ Internal Server Error:0      Class :character   text:0   true :0  
+ OK                   :0      Mode  :character                     
+                                                                   
+                                                                   
+                                                                   
+     bytes        Latency    threadCount          fileSize        
+ Min.   : NA   Min.   : NA   Length:0           Length:0          
+ 1st Qu.: NA   1st Qu.: NA   Class :character   Class :character  
+ Median : NA   Median : NA   Mode  :character   Mode  :character  
+ Mean   :NaN   Mean   :NaN                                        
+ 3rd Qu.: NA   3rd Qu.: NA                                        
+ Max.   : NA   Max.   : NA                                        

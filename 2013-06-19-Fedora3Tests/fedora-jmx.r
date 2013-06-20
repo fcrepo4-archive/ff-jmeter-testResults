@@ -41,7 +41,7 @@ for (file in files) {
       file.parts<-strsplit(file, "-");
     print("Operating on parsed file parts:");
      print(file.parts);
- thread.count<-sub('threads.csv', '', file.parts[[1]][7]);
+ thread.count<-sub('threads.csv', '', file.parts[[1]][8]);
    if (count == 0) {
     thread.counts <- c(thread.count) ;
   } else {
@@ -56,10 +56,14 @@ print(thread.counts)
 #get the files for each thread count
 count <- 0
 for (thread.count in thread.counts) {
-  thread.files <- list.files(path=dir.path, pattern=sprintf("%sthreads.csv",thread.count), all.files=F, full.names=T);
+	print("Entering (thread.count in thread.counts) loop with thread.count=");
+	print(thread.count);
+  thread.files <- list.files(path=dir.path, pattern=sprintf("%s-threads.csv",thread.count), all.files=FALSE, full.names=TRUE);
+  print("Discovered thread.files=");
+ print(thread.files);
   for (file in thread.files) {
+  	print("Entering (file in thread.files) loop with file=");
     print (file);
-    print (thread.count);
     add.create<-FALSE;
 
     # Pull out parts from the file name
