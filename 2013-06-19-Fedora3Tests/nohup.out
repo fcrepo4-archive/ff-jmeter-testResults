@@ -1,0 +1,77 @@
+threads=1, loops=10, file-size=1, stddev=0
+cmd: /home/ubuntu/ff-jmeter-madness/jmeter/bin/jmeter -n -t /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx -Jnum_threads=1 -Jloop_count=10 -Jfilesize_mean=1 -Jfilesize_stddev=0
+Created the tree successfully using /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx
+Starting the test @ Wed Jun 19 20:25:56 GMT+01:00 2013 (1371669956950)
+Waiting for possible shutdown message on port 4445
+Tidying up ...    @ Wed Jun 19 20:26:22 GMT+01:00 2013 (1371669982636)
+... end of run
+ * Stopping Tomcat servlet engine tomcat7
+   ...done.
+ * Starting Tomcat servlet engine tomcat7
+   ...done.
+threads=1, loops=10, file-size=1024, stddev=102
+cmd: /home/ubuntu/ff-jmeter-madness/jmeter/bin/jmeter -n -t /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx -Jnum_threads=1 -Jloop_count=10 -Jfilesize_mean=1024 -Jfilesize_stddev=102
+Created the tree successfully using /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx
+Starting the test @ Wed Jun 19 20:27:30 GMT+01:00 2013 (1371670050955)
+Waiting for possible shutdown message on port 4445
+Tidying up ...    @ Wed Jun 19 20:28:22 GMT+01:00 2013 (1371670102417)
+... end of run
+ * Stopping Tomcat servlet engine tomcat7
+   ...done.
+ * Starting Tomcat servlet engine tomcat7
+   ...done.
+threads=1, loops=10, file-size=8192, stddev=819
+cmd: /home/ubuntu/ff-jmeter-madness/jmeter/bin/jmeter -n -t /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx -Jnum_threads=1 -Jloop_count=10 -Jfilesize_mean=8192 -Jfilesize_stddev=819
+Created the tree successfully using /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx
+Starting the test @ Wed Jun 19 20:29:30 GMT+01:00 2013 (1371670170689)
+Waiting for possible shutdown message on port 4445
+Tidying up ...    @ Wed Jun 19 20:30:22 GMT+01:00 2013 (1371670222644)
+... end of run
+ * Stopping Tomcat servlet engine tomcat7
+   ...done.
+ * Starting Tomcat servlet engine tomcat7
+   ...done.
+threads=1, loops=10, file-size=104858, stddev=10485
+cmd: /home/ubuntu/ff-jmeter-madness/jmeter/bin/jmeter -n -t /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx -Jnum_threads=1 -Jloop_count=10 -Jfilesize_mean=104858 -Jfilesize_stddev=10485
+Created the tree successfully using /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx
+Starting the test @ Wed Jun 19 20:31:30 GMT+01:00 2013 (1371670290948)
+Waiting for possible shutdown message on port 4445
+Tidying up ...    @ Wed Jun 19 20:32:24 GMT+01:00 2013 (1371670344104)
+... end of run
+ * Stopping Tomcat servlet engine tomcat7
+   ...done.
+ * Starting Tomcat servlet engine tomcat7
+   ...done.
+threads=1, loops=10, file-size=1048576, stddev=104857
+cmd: /home/ubuntu/ff-jmeter-madness/jmeter/bin/jmeter -n -t /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx -Jnum_threads=1 -Jloop_count=10 -Jfilesize_mean=1048576 -Jfilesize_stddev=104857
+Created the tree successfully using /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx
+Starting the test @ Wed Jun 19 20:33:32 GMT+01:00 2013 (1371670412424)
+Waiting for possible shutdown message on port 4445
+Tidying up ...    @ Wed Jun 19 20:34:31 GMT+01:00 2013 (1371670471164)
+... end of run
+ * Stopping Tomcat servlet engine tomcat7
+   ...done.
+ * Starting Tomcat servlet engine tomcat7
+   ...done.
+threads=1, loops=10, file-size=8388608, stddev=838860
+cmd: /home/ubuntu/ff-jmeter-madness/jmeter/bin/jmeter -n -t /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx -Jnum_threads=1 -Jloop_count=10 -Jfilesize_mean=8388608 -Jfilesize_stddev=838860
+Created the tree successfully using /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx
+Starting the test @ Wed Jun 19 20:35:42 GMT+01:00 2013 (1371670542256)
+Waiting for possible shutdown message on port 4445
+Tidying up ...    @ Wed Jun 19 20:46:35 GMT+01:00 2013 (1371671195232)
+... end of run
+ * Stopping Tomcat servlet engine tomcat7
+   ...done.
+ * Starting Tomcat servlet engine tomcat7
+   ...done.
+threads=1, loops=10, file-size=107374182, stddev=10737418
+cmd: /home/ubuntu/ff-jmeter-madness/jmeter/bin/jmeter -n -t /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx -Jnum_threads=1 -Jloop_count=10 -Jfilesize_mean=107374182 -Jfilesize_stddev=10737418
+Created the tree successfully using /home/ubuntu/ff-jmeter-madness/plans/fedora3-aw.jmx
+Starting the test @ Wed Jun 19 20:48:07 GMT+01:00 2013 (1371671287609)
+Waiting for possible shutdown message on port 4445
+Tidying up ...    @ Thu Jun 20 00:27:17 GMT+01:00 2013 (1371684437622)
+... end of run
+The JVM should have exitted but did not. * Stopping Tomcat servlet engine tomcat7
+   ...done.
+ * Starting Tomcat servlet engine tomcat7
+   ...done.

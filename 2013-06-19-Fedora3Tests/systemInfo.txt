@@ -1,0 +1,87 @@
+Information of system where tests were run
+Date: Wed Jun 19 19:57:52 CEST 2013
+Hostname: ip-10-137-2-219.ec2.internal 
+
+========================================
+CPU
+----------------------------------------
+processor	: 0
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz
+stepping	: 7
+microcode	: 0x70a
+cpu MHz		: 1799.999
+cache size	: 20480 KB
+physical id	: 0
+siblings	: 2
+core id		: 4
+cpu cores	: 1
+apicid		: 8
+initial apicid	: 8
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu de tsc msr pae cx8 sep cmov pat clflush mmx fxsr sse sse2 ss ht syscall nx lm constant_tsc rep_good nopl nonstop_tsc pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes hypervisor lahf_lm arat epb xsaveopt pln pts dtherm
+bogomips	: 3599.99
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+processor	: 1
+vendor_id	: GenuineIntel
+cpu family	: 6
+model		: 45
+model name	: Intel(R) Xeon(R) CPU E5-2650 0 @ 2.00GHz
+stepping	: 7
+microcode	: 0x70a
+cpu MHz		: 1799.999
+cache size	: 20480 KB
+physical id	: 0
+siblings	: 2
+core id		: 4
+cpu cores	: 1
+apicid		: 8
+initial apicid	: 8
+fpu		: yes
+fpu_exception	: yes
+cpuid level	: 13
+wp		: yes
+flags		: fpu de tsc msr pae cx8 sep cmov pat clflush mmx fxsr sse sse2 ss ht syscall nx lm constant_tsc rep_good nopl nonstop_tsc pni pclmulqdq ssse3 cx16 pcid sse4_1 sse4_2 x2apic popcnt tsc_deadline_timer aes hypervisor lahf_lm arat epb xsaveopt pln pts dtherm
+bogomips	: 3599.99
+clflush size	: 64
+cache_alignment	: 64
+address sizes	: 46 bits physical, 48 bits virtual
+power management:
+
+
+========================================
+Memory
+----------------------------------------
+             total       used       free     shared    buffers     cached
+Mem:          7514       2335       5179          0         58       1629
+-/+ buffers/cache:        647       6866
+Swap:            0          0          0
+
+========================================
+OS
+----------------------------------------
+Linux 3.8.0-25-generic x86_64
+Linux ip-10-137-2-219 3.8.0-25-generic #37-Ubuntu SMP Thu Jun 6 20:47:07 UTC 2013 x86_64 x86_64 x86_64 GNU/Linux
+Linux version 3.8.0-25-generic (buildd@roseapple) (gcc version 4.7.3 (Ubuntu/Linaro 4.7.3-1ubuntu1) ) #37-Ubuntu SMP Thu Jun 6 20:47:07 UTC 2013
+
+========================================
+Hard disk
+----------------------------------------
+Filesystem      Size  Used Avail Use% Mounted on
+/dev/xvda1      9.8G  2.5G  6.9G  27% /
+none            4.0K     0  4.0K   0% /sys/fs/cgroup
+udev            3.7G  8.0K  3.7G   1% /dev
+tmpfs           752M  188K  752M   1% /run
+none            5.0M     0  5.0M   0% /run/lock
+none            3.7G     0  3.7G   0% /run/shm
+none            100M     0  100M   0% /run/user
+/dev/xvdb       414G  199M  393G   1% /mnt
